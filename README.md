@@ -4,16 +4,17 @@
 <ul>
   <li><a href='#web'>Web</a></li>
   <li><a href='#git'>Git, Gitlab</a></li>
+  <li><a href='#blogs'>Блоги</a></li>
   <ul>
 
 ___
 ### Web
 <section id='#web'>
-<a href='https://habr.com/ru/companies/otus/articles/706908/'> Несколько советов по работе с CORS для начинающих разработчиков</a>
+  + <a href='https://habr.com/ru/companies/otus/articles/706908/'> Несколько советов по работе с CORS для начинающих разработчиков</a>
 </section>
 ___
-### Git, Gitlab
 
+### Git, Gitlab
 <section id='#web'>
   <ul>
     <li>
@@ -21,3 +22,4 @@ ___
     </li>
   </ul>
 </section>
+
