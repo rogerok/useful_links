@@ -8,7 +8,7 @@
   <li><a href='#books'>Книги</a></li>
   <li><a href='#typescript'>Typescript</a></li>
   <li><a href='#architecture'>Архитектура, паттерны, дизайн</a></li>
-  <ul>
+<ul>
 
 __
 ### Web
