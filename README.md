@@ -30,7 +30,7 @@
     </li>
   </ul>
 </section>
-___
+
 
 ### Блоги
 <section id='#blogs'>
