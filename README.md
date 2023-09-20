@@ -10,7 +10,7 @@
   <li><a href='#architecture'>Архитектура, паттерны, дизайн</a></li>
 <ul>
 
-##
+
 
 ### Web
 <section id='web'>
@@ -36,9 +36,9 @@
 ### Блоги
 <section id='blogs'>
   <ul>
-    <li>
-      <a href='https://www.developerway.com/'>Developer Way</a>
-    </li>
+    <li><a href='https://www.developerway.com/'>Developer Way</a></li>
+    <li><a href='https://bespoyasov.ru/tags/books/'>Саша Беспоясов</a></li>
+    <li><a href='https://blog.csssr.com/ru/'>Новости 512</a><p>Еженедельный выпуск новостей из мира фронтентда, ссылки на интересные статьи</p></li>
   </ul>
 </section>
 
