@@ -31,6 +31,7 @@ ___
   </ul>
 </section>
 ___
+
 ### Блоги
 <section id='#blogs'>
   <ul>
