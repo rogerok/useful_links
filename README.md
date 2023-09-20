@@ -19,7 +19,8 @@ __
     </li>
   </ul>
 </section>
-__
+
+<br/>
 
 ### Git, Gitlab
 <section id='#git'>
