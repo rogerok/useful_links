@@ -59,6 +59,7 @@
   <ul>
     <li>
       <a href='https://habr.com/ru/companies/ru_mts/articles/744602/'>Книги для начинающих разработчиков: от «Чистой архитектуры» до «Паттернов проектирования»</a>
+      </li>
     </li>
        <a href='https://leanpub.com/javascriptallongesix/read'>JavaScript Allonge - функциональное программирование на JavaScript</a>
     </li>
