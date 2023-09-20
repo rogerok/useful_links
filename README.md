@@ -8,6 +8,7 @@
   <li><a href='#books'>Книги</a></li>
   <li><a href='#typescript'>Typescript</a></li>
   <li><a href='#architecture'>Архитектура, паттерны, дизайн</a></li>
+  <li><a href='#react-tools'>Инструменты для React</a></li>
 <ul>
 
 
@@ -57,7 +58,7 @@
 <section id='books'>
   <ul>
     <li>
-      Тут могут быть ссылки
+      <a href='https://habr.com/ru/companies/ru_mts/articles/744602/'>Книги для начинающих разработчиков: от «Чистой архитектуры» до «Паттернов проектирования»</a>
     </li>
   </ul>
 </section>
@@ -87,11 +88,20 @@
 <section id='react'>
   <ul>
     <li>
-            Тут могут быть ссылки
+        <a href='https://habr.com/ru/articles/692218/'>MobX с MVVM упрощает жизнь Frontend разработчика гораздо сильнее Redux'а</a>
     </li>
   </ul>
 </section>
 
 
-
-
+### React Tools
+<section id='react-tools'>
+  <ul>
+    <li>
+        <a href='https://habr.com/ru/articles/692218/'>MobX с MVVM упрощает жизнь Frontend разработчика гораздо сильнее Redux'а</a>
+    </li>
+    <li>
+      <a href='https://www.detroitlabs.com/blog/intro-to-mvvm-in-react-with-mobx/'>Intro to MVVM in React (with MobX)</a>
+  </li>
+  </ul>
+</section>
