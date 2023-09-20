@@ -10,7 +10,7 @@
   <li><a href='#architecture'>Архитектура, паттерны, дизайн</a></li>
 <ul>
 
-__
+
 ### Web
 <section id='#web'>
   <ul>
@@ -20,7 +20,7 @@ __
   </ul>
 </section>
 
-<br/>
+
 
 ### Git, Gitlab
 <section id='#git'>
@@ -40,7 +40,7 @@ ___
     </li>
   </ul>
 </section>
-___
+
 
 ### Курсы
 <section id='#courses'>
@@ -50,7 +50,7 @@ ___
     </li>
   </ul>
 </section>
-___
+
 
 ### Книги
 <section id='#courses'>
@@ -61,7 +61,7 @@ ___
   </ul>
 </section>
 
-___
+
 
 ### Typescript
 <section id='#typescript'>
