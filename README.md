@@ -11,7 +11,7 @@
   <li><a href='#architecture'>Архитектура, паттерны, дизайн</a></li>
   <ul>
 
-___
+__
 ### Web
 <section id='#web'>
   <ul>
