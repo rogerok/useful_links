@@ -2,7 +2,7 @@
 ## 
 
 <ul>
-  <li><a href='#web'>**Web**</a></li>
+  <li><a href='#web'>Web</a></li>
   <ul>
 
 ___
