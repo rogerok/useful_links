@@ -63,6 +63,9 @@
     <li>
        <a href='https://leanpub.com/javascriptallongesix/read'>JavaScript Allonge - функциональное программирование на JavaScript</a>
     </li>
+    <li>
+       <a href='https://github.com/gibbok/typescript-book'>The Concise TypeScript Book</a>
+    </li>
   </ul>
 </section>
 
