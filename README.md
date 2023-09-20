@@ -41,6 +41,7 @@ ___
   </ul>
 </section>
 ___
+
 ### Курсы
 <section id='#courses'>
   <ul>
@@ -50,6 +51,7 @@ ___
   </ul>
 </section>
 ___
+
 ### Книги
 <section id='#courses'>
   <ul>
@@ -60,6 +62,7 @@ ___
 </section>
 
 ___
+
 ### Typescript
 <section id='#typescript'>
   <ul>
