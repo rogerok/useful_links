@@ -13,7 +13,7 @@
 ##
 
 ### Web
-<section id='#web'>
+<section id='web'>
   <ul>
     <li>
       <a href='https://habr.com/ru/companies/otus/articles/706908/'> Несколько советов по работе с CORS для начинающих разработчиков</a>
@@ -24,7 +24,7 @@
 
 
 ### Git, Gitlab
-<section id='#git'>
+<section id='git'>
   <ul>
     <li>
        <a href=''></a>
@@ -34,7 +34,7 @@
 
 
 ### Блоги
-<section id='#blogs'>
+<section id='blogs'>
   <ul>
     <li>
       <a href='https://www.developerway.com/'>Developer Way</a>
@@ -44,7 +44,7 @@
 
 
 ### Курсы
-<section id='#courses'>
+<section id='courses'>
   <ul>
     <li>
       Тут могут быть ссылки
@@ -54,7 +54,7 @@
 
 
 ### Книги
-<section id='#courses'>
+<section id='books'>
   <ul>
     <li>
       Тут могут быть ссылки
@@ -65,7 +65,7 @@
 
 
 ### Typescript
-<section id='#typescript'>
+<section id='typescript'>
   <ul>
     <li>
       <a href='https://habr.com/ru/articles/735542/'>Учимся писать сложные Typescript типы на примере роутинга в React</a>
@@ -75,7 +75,7 @@
 
 
 ### Архитектура, паттерны, дизайн
-<section id='#architecture'>
+<section id='architecture'>
   <ul>
     <li>
       <a href='https://bespoyasov.ru/blog/explicit-design-series/'>Явный дизайн в разработке приложений</a>
@@ -84,7 +84,7 @@
 </section>
 
 ### React
-<section id='#react'>
+<section id='react'>
   <ul>
     <li>
             Тут могут быть ссылки
