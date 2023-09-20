@@ -27,7 +27,7 @@
 <section id='#git'>
   <ul>
     <li>
-       <a href='https://www.developerway.com/'>Developer Way</a>
+       <a href=''></a>
     </li>
   </ul>
 </section>
@@ -72,4 +72,26 @@
     </li>
   </ul>
 </section>
+
+
+### Архитектура, паттерны, дизайн
+<section id='#architecture'>
+  <ul>
+    <li>
+      <a href='https://bespoyasov.ru/blog/explicit-design-series/'>Явный дизайн в разработке приложений</a>
+    </li>
+  </ul>
+</section>
+
+### React
+<section id='#react'>
+  <ul>
+    <li>
+            Тут могут быть ссылки
+    </li>
+  </ul>
+</section>
+
+
+
 
