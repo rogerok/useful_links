@@ -7,6 +7,8 @@
   <li><a href='#blogs'>Блоги</a></li>
   <li><a href='#courses'>Курсы</a></li>
   <li><a href='#books'>Книги</a></li>
+  <li><a href='#typescript'>Typescript</a></li>
+  <li><a href='#architecture'>Архитектура, паттерны, дизайн</a></li>
   <ul>
 
 ___
@@ -28,7 +30,7 @@ ___
     </li>
   </ul>
 </section>
-
+___
 ### Блоги
 <section id='#blogs'>
   <ul>
@@ -37,7 +39,7 @@ ___
     </li>
   </ul>
 </section>
-
+___
 ### Курсы
 <section id='#courses'>
   <ul>
@@ -46,12 +48,22 @@ ___
     </li>
   </ul>
 </section>
-
+___
 ### Книги
 <section id='#courses'>
   <ul>
     <li>
       Тут могут быть ссылки
+    </li>
+  </ul>
+</section>
+
+___
+### Typescript
+<section id='#typescript'>
+  <ul>
+    <li>
+      <a href='https://habr.com/ru/articles/735542/'>Учимся писать сложные Typescript типы на примере роутинга в React</a>
     </li>
   </ul>
 </section>
