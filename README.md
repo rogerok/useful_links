@@ -20,7 +20,7 @@ __
     </li>
   </ul>
 </section>
-___
+__
 
 ### Git, Gitlab
 <section id='#git'>
