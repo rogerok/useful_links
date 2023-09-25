@@ -72,7 +72,7 @@
     </li>
   </ul>
 </section>
-https://learnxinyminutes.com/
+
 
 
 ### Typescript
@@ -154,8 +154,16 @@ https://learnxinyminutes.com/
 <section id='challenges'>
   <ul>
     <li>
-      <a href='https://www.pgrammer.com/'></a>
+      <a href='https://www.pgrammer.com/'>Задачи с собеседований</a>
     </li>
+    <li>
+      <a href='https://bigfrontend.dev/'>BigFrontEnd.dev Practice + Prepare = Offer</a>
+    </li>
+    <span>Много интересных задач</span>
+        <li>
+      <a href='https://bigfrontend.dev/'>Список тестовых заданий для прокачки</a>
+    </li>
+    <span>Репозиторий с большим количеством тестовых заданий</span>
   </ul>
 </section>
 
@@ -163,7 +171,16 @@ https://learnxinyminutes.com/
 <section id='challenges'>
   <ul>
     <li>
-      <a href='https://www.pgrammer.com/'></a>
+      <a href='https://phuoc.ng/collection/tips/'>Front-End development mastery: simple tips, tricks, and best practices</a>
+    </li>
+    <li>
+      <a href='https://phuoc.ng/collection/html-dom/'>Mastering DOM manipulation with vanilla JavaScript</a>
+    </li>
+    <li>
+      <a href='https://phuoc.ng/collection/css-layout/'>A collection of popular CSS layouts and patterns that you can use right away</a>
+    </li>
+    <li>
+      <a href='https://phuoc.ng/collection/1-loc/'>My top JavaScript utilities, in just One Line of Code!</a>
     </li>
   </ul>
 </section>
