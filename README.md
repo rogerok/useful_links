@@ -88,6 +88,9 @@
     <li>
       <a href='https://habr.com/ru/articles/735542/'>Учимся писать сложные Typescript типы на примере роутинга в React</a>
     </li>
+    <li>
+      <a href='https://my-js.org/docs/cheatsheet/mastering-ts/'>TypeScript в деталях</a>
+    </li>
   </ul>
 </section>
 
@@ -115,6 +118,9 @@
     </li>
     <li>
       <a href='https://www.patterns.dev/'>Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/articles/249639/'>KISS — принцип проектирования, содержащий все остальные принципы проектирования</a>
     </li>
   </ul>
 </section>
@@ -168,12 +174,16 @@
     </li>
     <li>
       <a href='https://bigfrontend.dev/'>BigFrontEnd.dev Practice + Prepare = Offer</a>
+        <span>Много интересных задач</span>
     </li>
-    <span>Много интересных задач</span>
-        <li>
+    <li>
       <a href='https://bigfrontend.dev/'>Список тестовых заданий для прокачки</a>
+     <span>Репозиторий с большим количеством тестовых заданий</span>
     </li>
-    <span>Репозиторий с большим количеством тестовых заданий</span>
+    <li>
+      <a href='https://github.com/YauhenKavalchuk/interview-questions'>
+      Front-end. Вопросы на собеседовании</a>
+    </li>
   </ul>
 </section>
 
