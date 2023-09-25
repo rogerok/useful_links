@@ -108,6 +108,9 @@
     <li>
       <a href='https://habr.com/ru/articles/713800/'>Понять TypeScript c помощью теории множеств</a>
     </li>
+    <li>
+      <a href='https://dmitripavlutin.com/typescript-function-overloading/'>TypeScript Function Overloading</a>
+    </li>
   </ul>
 </section>
 
@@ -261,6 +264,9 @@
   <ul>
     <li>
       <a href='https://habr.com/ru/articles/754154/'>Insomnia — Инструкция по применению</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/articles/663904/'>11 хитростей Chrome DevTools</a>
     </li>
   </ul>
 </section>
