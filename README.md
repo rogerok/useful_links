@@ -12,6 +12,7 @@
   <li><a href='#algorithms'>Алгоритмы, структуры данных, код</a></li>
   <li><a href='#challenges'>Задачи, подготовка к интервью</a></li>
   <li><a href='#front'>Рецепты, сайты по фронту</a></li>
+  <li><a href='#tools'>Insomnia — Инструкция по применению</a></li>
 <ul>
 
 
@@ -22,6 +23,9 @@
     <li>
       <a href='https://habr.com/ru/companies/otus/articles/706908/'> Несколько советов по работе с CORS для начинающих разработчиков</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/companies/bastion/articles/757590/'>Ликбез по распространенным Client-Side уязвимостям</a>
+    </li>
   </ul>
 </section>
 
@@ -31,7 +35,10 @@
 <section id='git'>
   <ul>
     <li>
-       <a href=''></a>
+       <a href='https://habr.com/ru/companies/ozontech/articles/754526/'>Clean Git History, или Тёмная сторона VCS</a>
+    </li>
+    <li>
+       <a href='https://habr.com/ru/companies/nixys/articles/758068/'>Приручаем GitLab: прикольные фишки и инциденты, которые упростят вашу жизнь</a>
     </li>
   </ul>
 </section>
@@ -191,3 +198,11 @@
   </ul>
 </section>
 
+### Инструменты 
+<section id='algorithms'>
+  <ul>
+    <li>
+      <a href='https://habr.com/ru/articles/754154/'>Insomnia — Инструкция по применению</a>
+    </li>
+  </ul>
+</section>
