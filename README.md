@@ -13,6 +13,8 @@
   <li><a href='#challenges'>Задачи, подготовка к интервью</a></li>
   <li><a href='#front'>Рецепты, сайты по фронту</a></li>
   <li><a href='#tools'>Insomnia — Инструкция по применению</a></li>
+  <li><a href='#linux'>Linux</a></li>
+
 <ul>
 
 
@@ -77,6 +79,9 @@
     <li>
        <a href='https://github.com/gibbok/typescript-book'>The Concise TypeScript Book</a>
     </li>
+    <li>
+       <a href='https://github.com/fxzhukov/Functional-Light-JS-RU'>Функционально-Легкий JavaScript</a>
+    </li>
   </ul>
 </section>
 
@@ -90,6 +95,9 @@
     </li>
     <li>
       <a href='https://my-js.org/docs/cheatsheet/mastering-ts/'>TypeScript в деталях</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/articles/721862/'>React и Typescript: Создание динамического компонента на примере кнопки</a>
     </li>
   </ul>
 </section>
@@ -188,7 +196,7 @@
 </section>
 
 ### Рецепты, сайты по фронту
-<section id='challenges'>
+<section id='front'>
   <ul>
     <li>
       <a href='https://phuoc.ng/collection/tips/'>Front-End development mastery: simple tips, tricks, and best practices</a>
@@ -205,6 +213,9 @@
     <li>
       <a href='https://www.30secondsofcode.org/'>30 seconds of code - short code snippets for all your development needs.</a>
     </li>
+    <li>
+      <a href='https://andreasbm.github.io/web-skills/'>30 seconds of code - short code snippets for all your development needs.</a>
+    </li>
   </ul>
 </section>
 
@@ -213,6 +224,17 @@
   <ul>
     <li>
       <a href='https://habr.com/ru/articles/754154/'>Insomnia — Инструкция по применению</a>
+    </li>
+  </ul>
+</section>
+
+
+### Linux
+
+<section id='linux'>
+  <ul>
+    <li>
+      <a href='https://lifehacker.ru/komandy-linux/'>85 команд Linux на все случаи жизни</a>
     </li>
   </ul>
 </section>
