@@ -25,10 +25,13 @@
 <section id='web'>
   <ul>
     <li>
-      <a href='https://habr.com/ru/companies/otus/articles/706908/'> Несколько советов по работе с CORS для начинающих разработчиков</a>
+      <a href='https://habr.com/ru/companies/otus/articles/706908/'>Несколько советов по работе с CORS для начинающих разработчиков</a>
     </li>
     <li>
       <a href='https://habr.com/ru/companies/bastion/articles/757590/'>Ликбез по распространенным Client-Side уязвимостям</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/companies/skillfactory/articles/678400/'>Как работает браузер</a>
     </li>
   </ul>
 </section>
@@ -179,6 +182,9 @@
     <li>
       <a href='https://reactjsexample.com/'>ReactJs Examples - примеры различных компонентов на JS</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/companies/timeweb/articles/691338/'>Разрабатываем библиотеку компонентов с помощью React и TypeScript</a>
+    </li>
   </ul>
 </section>
 
@@ -267,6 +273,9 @@
     </li>
     <li>
       <a href='https://habr.com/ru/articles/663904/'>11 хитростей Chrome DevTools</a>
+    </li>
+    <li>
+      <a href='https://javascript.plainenglish.io/11-useful-frontend-web-developer-web-apps-to-boost-productivity-c8b2afeab251'>11 Useful Frontend Web Developer Web Apps to Boost Productivity</a>
     </li>
   </ul>
 </section>
