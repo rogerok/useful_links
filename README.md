@@ -10,6 +10,8 @@
   <li><a href='#architecture'>Архитектура, паттерны, дизайн</a></li>
   <li><a href='#react-tools'>Инструменты для React</a></li>
   <li><a href='#algorithms'>Алгоритмы, структуры данных, код</a></li>
+  <li><a href='#challenges'>Задачи, подготовка к интервью</a></li>
+  <li><a href='#front'>Рецепты, сайты по фронту</a></li>
 <ul>
 
 
@@ -70,7 +72,7 @@
     </li>
   </ul>
 </section>
-
+https://learnxinyminutes.com/
 
 
 ### Typescript
@@ -144,6 +146,24 @@
   <ul>
     <li>
       <a href='https://www.kirupa.com/data_structures_algorithms/index.htm'>Learn Data Structures and Algorithms</a>
+    </li>
+  </ul>
+</section>
+
+### Задачи, подготовка к интервью,
+<section id='challenges'>
+  <ul>
+    <li>
+      <a href='https://www.pgrammer.com/'></a>
+    </li>
+  </ul>
+</section>
+
+### Рецепты, сайты по фронту
+<section id='challenges'>
+  <ul>
+    <li>
+      <a href='https://www.pgrammer.com/'></a>
     </li>
   </ul>
 </section>
