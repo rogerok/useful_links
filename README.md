@@ -106,6 +106,9 @@
     <li>
       <a href='https://habr.com/ru/companies/yandex/articles/662826/'>Гайд по написанию и рефакторингу компонентов, которые хочется переиспользовать</a>
     </li>
+    <li>
+      <a href='https://www.patterns.dev/'>Patterns.dev is a free book on design patterns and component patterns for building powerful web apps with vanilla JavaScript and React.</a>
+    </li>
   </ul>
 </section>
 
@@ -181,6 +184,9 @@
     </li>
     <li>
       <a href='https://phuoc.ng/collection/1-loc/'>My top JavaScript utilities, in just One Line of Code!</a>
+    </li>
+    <li>
+      <a href='https://www.30secondsofcode.org/'>30 seconds of code - short code snippets for all your development needs.</a>
     </li>
   </ul>
 </section>
