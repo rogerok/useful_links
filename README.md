@@ -8,12 +8,14 @@
   <li><a href='#books'>Книги</a></li>
   <li><a href='#typescript'>Typescript</a></li>
   <li><a href='#architecture'>Архитектура, паттерны, дизайн</a></li>
+  <li><a href='#react'>React</a></li>
   <li><a href='#react-tools'>Инструменты для React</a></li>
   <li><a href='#algorithms'>Алгоритмы, структуры данных, код</a></li>
   <li><a href='#challenges'>Задачи, подготовка к интервью</a></li>
   <li><a href='#front'>Рецепты, сайты по фронту</a></li>
-  <li><a href='#tools'>Insomnia — Инструкция по применению</a></li>
+  <li><a href='#tools'>Tools</a></li>
   <li><a href='#linux'>Linux</a></li>
+  <li><a href='#javascript'>JavaScript</a></li>
 
 <ul>
 
@@ -53,6 +55,7 @@
     <li><a href='https://bespoyasov.ru/tags/books/'>Саша Беспоясов</a></li>
     <li><a href='https://blog.csssr.com/ru/'>Новости 512</a><p>Еженедельный выпуск новостей из мира фронтентда, ссылки на интересные статьи</p></li>
     <li><a href='https://habr.com/ru/users/igor_zvyagin/'>Игорь Звягин на Хабре</a><p>Статьи про реакт, хуки, замыкание в реакте</p></li>
+    <li><a href='https://dmitripavlutin.com/'>Dmitri Pavlutin</a><p>Статьи про JavaScript</p></li>
   </ul>
 </section>
 
@@ -108,6 +111,16 @@
   </ul>
 </section>
 
+### JavaScript 
+<section id='javascript'>
+  <ul>
+    <li>
+      <a href='https://dmitripavlutin.com/javascript-array-group/'>Array Grouping in JavaScript: Object.groupBy()</a>
+    </li>
+  </ul>
+
+</section>
+
 
 ### Архитектура, паттерны, дизайн
 <section id='architecture'>
@@ -154,6 +167,9 @@
     <li>
       <a href='https://react.dev/learn/you-might-not-need-an-effect/'>You Might Not Need an Effect – React</a>
     </li>
+    <li>
+      <a href='https://blog.logrocket.com/using-react-cloneelement-function/'>Using the React.cloneElement() function to clone elements</a>
+    </li>
   </ul>
 </section>
 
@@ -176,6 +192,9 @@
   <ul>
     <li>
       <a href='https://www.kirupa.com/data_structures_algorithms/index.htm'>Learn Data Structures and Algorithms</a>
+    </li>
+    <li>
+      <a href='https://github.com/trekhleb/javascript-algorithms'>Алгоритмы и структуры данных на JavaScript</a>
     </li>
   </ul>
 </section>
