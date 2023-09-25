@@ -99,6 +99,12 @@
     <li>
       <a href='https://habr.com/ru/articles/721862/'>React и Typescript: Создание динамического компонента на примере кнопки</a>
     </li>
+    <li>
+      <a href='https://www.youtube.com/@mattpocockuk'>Крутой канал про Typescript </a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/articles/713800/'>Понять TypeScript c помощью теории множеств</a>
+    </li>
   </ul>
 </section>
 
@@ -215,6 +221,12 @@
     </li>
     <li>
       <a href='https://andreasbm.github.io/web-skills/'>30 seconds of code - short code snippets for all your development needs.</a>
+    </li>
+    <li>
+      <a href='https://web.dev/sign-in-form-best-practices/'>Рекомендации по формам входа в систему</a>
+    </li>
+    <li>
+      <a href='https://ishadeed.com/article/responsive-design/'>The Guide To Responsive Design In 2023 and Beyond</a>
     </li>
   </ul>
 </section>
