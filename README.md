@@ -17,6 +17,7 @@
   <li><a href='#linux'>Linux</a></li>
   <li><a href='#javascript'>JavaScript</a></li>
   <li><a href='#css'>CSS</a></li>
+  <li><a href='#backend'>CSS</a></li>
 
 <ul>
 
@@ -50,6 +51,9 @@
     </li>
     <li>
        <a href='https://habr.com/ru/companies/nixys/articles/758068/'>Приручаем GitLab: прикольные фишки и инциденты, которые упростят вашу жизнь</a>
+    </li>
+    <li>
+       <a href='https://www.atlassian.com/git/tutorials'>Become a git guru</a>
     </li>
   </ul>
 </section>
@@ -302,11 +306,21 @@
   </ul>
 </section>
 
-
+### CSS
 <section id='css'>
   <ul>
     <li>
       <a href='https://ishadeed.com/article/conditional-css/'>Conditional CSS</a>
+    </li>
+  </ul>
+</section>
+
+
+## Backend
+<section id='backend'>
+  <ul>
+    <li>
+      <a href='https://github.com/bzick/oh-my-backend'>содержит список (roadmap) навыков, которые часто требуются backend разработчику</a>
     </li>
   </ul>
 </section>
