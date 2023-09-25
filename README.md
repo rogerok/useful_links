@@ -16,6 +16,7 @@
   <li><a href='#tools'>Tools</a></li>
   <li><a href='#linux'>Linux</a></li>
   <li><a href='#javascript'>JavaScript</a></li>
+  <li><a href='#css'>CSS</a></li>
 
 <ul>
 
@@ -32,6 +33,9 @@
     </li>
     <li>
       <a href='https://habr.com/ru/companies/skillfactory/articles/678400/'>Как работает браузер</a>
+    </li>
+    <li>
+      <a href='https://explained-from-first-principles.com/internet/'>How Internet Works</a>
     </li>
   </ul>
 </section>
@@ -122,6 +126,10 @@
   <ul>
     <li>
       <a href='https://dmitripavlutin.com/javascript-array-group/'>Array Grouping in JavaScript: Object.groupBy()</a>
+    </li>
+    <li>
+      <a href='https://webdevblog.ru/proxy/'>Все, что вам нужно знать о Proxy в JavaScript
+</a>
     </li>
   </ul>
 
@@ -277,6 +285,9 @@
     <li>
       <a href='https://javascript.plainenglish.io/11-useful-frontend-web-developer-web-apps-to-boost-productivity-c8b2afeab251'>11 Useful Frontend Web Developer Web Apps to Boost Productivity</a>
     </li>
+    <li>
+      <a href='https://dev-doc.clickup.com/333/p/h/ad-1563600/ac0768d6b9afd1c'>AI Prompts and Tools</a>
+    </li>
   </ul>
 </section>
 
@@ -287,6 +298,15 @@
   <ul>
     <li>
       <a href='https://lifehacker.ru/komandy-linux/'>85 команд Linux на все случаи жизни</a>
+    </li>
+  </ul>
+</section>
+
+
+<section id='css'>
+  <ul>
+    <li>
+      <a href='https://ishadeed.com/article/conditional-css/'>Conditional CSS</a>
     </li>
   </ul>
 </section>
