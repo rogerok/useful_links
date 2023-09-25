@@ -170,6 +170,12 @@
     <li>
       <a href='https://blog.logrocket.com/using-react-cloneelement-function/'>Using the React.cloneElement() function to clone elements</a>
     </li>
+    <li>
+      <a href='https://blog.logrocket.com/complete-guide-react-refs/'>A complete guide to React refs</a>
+    </li>
+    <li>
+      <a href='https://reactjsexample.com/'>ReactJs Examples - примеры различных компонентов на JS</a>
+    </li>
   </ul>
 </section>
 
