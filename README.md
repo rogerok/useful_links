@@ -17,7 +17,7 @@
   <li><a href='#linux'>Linux</a></li>
   <li><a href='#javascript'>JavaScript</a></li>
   <li><a href='#css'>CSS</a></li>
-  <li><a href='#backend'>CSS</a></li>
+  <li><a href='#backend'>Backend</a></li>
 
 <ul>
 
