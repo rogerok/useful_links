@@ -167,6 +167,12 @@
     <li>
       <a href='https://habr.com/ru/articles/249639/'>KISS — принцип проектирования, содержащий все остальные принципы проектирования</a>
     </li>
+    <li>
+      <a href='https://martinfowler.com/articles/modularizing-react-apps.html'>Modularizing React Applications with Established UI Patterns</a>
+    </li>
+    <li>
+      <a href='https://itnext.io/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c'> Decoupling UI and Logic in React: A Clean Code Approach with Headless Components</a>
+    </li>
   </ul>
 </section>
 
@@ -196,6 +202,12 @@
     </li>
     <li>
       <a href='https://habr.com/ru/companies/timeweb/articles/691338/'>Разрабатываем библиотеку компонентов с помощью React и TypeScript</a>
+    </li>
+    <li>
+      <a href='https://martinfowler.com/articles/modularizing-react-apps.html'>Modularizing React Applications with Established UI Patterns</a>
+    </li>
+    <li>
+      <a href='https://itnext.io/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c'> Decoupling UI and Logic in React: A Clean Code Approach with Headless Components</a>
     </li>
   </ul>
 </section>
