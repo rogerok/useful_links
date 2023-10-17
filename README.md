@@ -55,6 +55,9 @@
     <li>
        <a href='https://www.atlassian.com/git/tutorials'>Become a git guru</a>
     </li>
+    <li>
+       <a href='https://habr.com/ru/companies/ozontech/articles/754526/'>Clean Git History, или Тёмная сторона VCS</a>
+    </li>
   </ul>
 </section>
 
@@ -67,6 +70,9 @@
     <li><a href='https://blog.csssr.com/ru/'>Новости 512</a><p>Еженедельный выпуск новостей из мира фронтентда, ссылки на интересные статьи</p></li>
     <li><a href='https://habr.com/ru/users/igor_zvyagin/'>Игорь Звягин на Хабре</a><p>Статьи про реакт, хуки, замыкание в реакте</p></li>
     <li><a href='https://dmitripavlutin.com/'>Dmitri Pavlutin</a><p>Статьи про JavaScript</p></li>
+    <li>
+      <a href='https://github.com/HowProgrammingWorks/Index'>Репозиторий Тимура Шемсединова - создатель Метархии. Основы программирования, как работает программирование. Углубленный JS, Node js</a>
+    </li>
   </ul>
 </section>
 
@@ -75,7 +81,7 @@
 <section id='courses'>
   <ul>
     <li>
-      Тут могут быть ссылки
+      <a href='https://karpov.courses/dev/frontend'>FRONTEND УРОВНЯ ТОПОВЫХ КОМПАНИЙ</a>
     </li>
   </ul>
 </section>
@@ -86,7 +92,7 @@
   <ul>
     <li>
       <a href='https://habr.com/ru/companies/ru_mts/articles/744602/'>Книги для начинающих разработчиков: от «Чистой архитектуры» до «Паттернов проектирования»</a>
-      </li>
+    </li>
     <li>
        <a href='https://leanpub.com/javascriptallongesix/read'>JavaScript Allonge - функциональное программирование на JavaScript</a>
     </li>
@@ -95,6 +101,9 @@
     </li>
     <li>
        <a href='https://github.com/fxzhukov/Functional-Light-JS-RU'>Функционально-Легкий JavaScript</a>
+    </li>
+    <li>
+      <a href='https://github.com/HowProgrammingWorks/Index'>Репозиторий Тимура Шемсединова - создатель Метархии. Основы программирования, как работает программирование. Углубленный JS, Node js</a>
     </li>
   </ul>
 </section>
@@ -132,8 +141,10 @@
       <a href='https://dmitripavlutin.com/javascript-array-group/'>Array Grouping in JavaScript: Object.groupBy()</a>
     </li>
     <li>
-      <a href='https://webdevblog.ru/proxy/'>Все, что вам нужно знать о Proxy в JavaScript
-</a>
+      <a href='https://webdevblog.ru/proxy/'>Все, что вам нужно знать о Proxy в JavaScript</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/articles/757770/'>Паттерны реактивности в современном JavaScript</a>
     </li>
   </ul>
 
@@ -173,6 +184,9 @@
     <li>
       <a href='https://itnext.io/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c'> Decoupling UI and Logic in React: A Clean Code Approach with Headless Components</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/companies/domclick/articles/672546/'> Пишем продвинутый планировщик с использованием React, Nest и NX. Часть 1: настройка проекта</a>
+    </li>
   </ul>
 </section>
 
@@ -209,6 +223,9 @@
     <li>
       <a href='https://itnext.io/decoupling-ui-and-logic-in-react-a-clean-code-approach-with-headless-components-82e46b5820c'> Decoupling UI and Logic in React: A Clean Code Approach with Headless Components</a>
     </li>
+    <li>
+      <a href='https://dev.to/argonauta/react-advance-decoupling-your-components-in-the-right-way-4pkn'>React Advanced: Decoupling your components in the right way</a>
+    </li>
   </ul>
 </section>
 
@@ -222,6 +239,9 @@
     <li>
       <a href='https://www.detroitlabs.com/blog/intro-to-mvvm-in-react-with-mobx/'>Intro to MVVM in React (with MobX)</a>
   </li>
+  <li>
+      <a href='https://habr.com/ru/articles/764254/'>Как декораторы могут упростить разработку веб-форм Mobx</a>
+  </li>
   </ul>
 </section>
 
@@ -234,6 +254,9 @@
     </li>
     <li>
       <a href='https://github.com/trekhleb/javascript-algorithms'>Алгоритмы и структуры данных на JavaScript</a>
+    </li>
+    <li>
+      <a href='https://github.com/HowProgrammingWorks/Index'>Репозиторий Тимура Шемсединова - создатель Метархии. Основы программирования, как работает программирование. Углубленный JS, Node js</a>
     </li>
   </ul>
 </section>
