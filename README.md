@@ -18,6 +18,8 @@
   <li><a href='#javascript'>JavaScript</a></li>
   <li><a href='#css'>CSS</a></li>
   <li><a href='#backend'>Backend</a></li>
+  <li><a href='#infrastructure'>Деплой, ифнраструктура, сборка</a></li>
+
 
 <ul>
 
@@ -129,7 +131,10 @@
       <a href='https://habr.com/ru/articles/713800/'>Понять TypeScript c помощью теории множеств</a>
     </li>
     <li>
-      <a href='https://dmitripavlutin.com/typescript-function-overloading/'>TypeScript Function Overloading</a>
+      <a href='https://habr.com/ru/articles/767494/'>Web Workers в JavaScript: Параллельные вычисления и улучшение производительности</a>
+    </li>
+    <li>
+      <a href='https://www.smashingmagazine.com/2023/10/removing-object-properties-javascript/'>What Removing Object Properties Tells Us About JavaScript</a>
     </li>
   </ul>
 </section>
@@ -142,6 +147,9 @@
     </li>
     <li>
       <a href='https://webdevblog.ru/proxy/'>Все, что вам нужно знать о Proxy в JavaScript</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/articles/757770/'>Паттерны реактивности в современном JavaScript</a>
     </li>
     <li>
       <a href='https://habr.com/ru/articles/757770/'>Паттерны реактивности в современном JavaScript</a>
@@ -258,6 +266,9 @@
     <li>
       <a href='https://github.com/HowProgrammingWorks/Index'>Репозиторий Тимура Шемсединова - создатель Метархии. Основы программирования, как работает программирование. Углубленный JS, Node js</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/companies/simbirsoft/articles/769312/'>9 алгоритмов сортировки и поиска для JS, о которых вас спросят на собеседовании</a>
+    </li>
   </ul>
 </section>
 
@@ -356,6 +367,17 @@
   <ul>
     <li>
       <a href='https://github.com/bzick/oh-my-backend'>содержит список (roadmap) навыков, которые часто требуются backend разработчику</a>
+    </li>
+  </ul>
+</section>
+
+
+
+### Деплой, инфраструктура, сборка
+<section id='infrastructure'>
+  <ul>
+    <li>
+       <a href='https://www.freecodecamp.org/news/deployment-strategies-for-nextjs-apps/'>How to Choose a Deployment Strategy for Your Next.js Application</a>
     </li>
   </ul>
 </section>
