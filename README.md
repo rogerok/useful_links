@@ -358,6 +358,9 @@
     <li>
       <a href='https://ishadeed.com/article/conditional-css/'>Conditional CSS</a>
     </li>
+    <li>
+          <a href='https://habr.com/ru/companies/ruvds/articles/501634'>CSS-функции min(), max() и clamp()</a>
+    </li>
   </ul>
 </section>
 
