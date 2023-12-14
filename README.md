@@ -75,6 +75,9 @@
     <li>
       <a href='https://github.com/HowProgrammingWorks/Index'>Репозиторий Тимура Шемсединова - создатель Метархии. Основы программирования, как работает программирование. Углубленный JS, Node js</a>
     </li>
+    <li>
+      <a href='https://blog.thoughtspile.tech/tags/react/'>Vladimir Klepov статьи про реакт</a>
+    </li>
   </ul>
 </section>
 
@@ -233,6 +236,9 @@
     </li>
     <li>
       <a href='https://dev.to/argonauta/react-advance-decoupling-your-components-in-the-right-way-4pkn'>React Advanced: Decoupling your components in the right way</a>
+    </li>
+    <li>
+      <a href='https://blog.thoughtspile.tech/tags/react/'>Vladimir Klepov статьи про реакт</a>
     </li>
   </ul>
 </section>
