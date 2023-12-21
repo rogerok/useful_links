@@ -343,7 +343,7 @@
 </section>
 
 ### Инструменты 
-<section id='algorithms'>
+<section id='tools'>
   <ul>
     <li>
       <a href='https://habr.com/ru/articles/754154/'>Insomnia — Инструкция по применению</a>
@@ -356,6 +356,9 @@
     </li>
     <li>
       <a href='https://dev-doc.clickup.com/333/p/h/ad-1563600/ac0768d6b9afd1c'>AI Prompts and Tools</a>
+    </li>
+    <li>
+      <a href='https://alan.norbauer.com/articles/browser-debugging-tricks'>67 Weird Debugging Tricks Your Browser Doesn't Want You to Know</a>
     </li>
   </ul>
 </section>
@@ -379,6 +382,12 @@
     </li>
     <li>
           <a href='https://habr.com/ru/companies/ruvds/articles/501634'>CSS-функции min(), max() и clamp()</a>
+    </li>
+    <li>
+      <a href='https://www.smashingmagazine.com/2023/11/few-ways-css-easier-write-2023/'>A Few Ways CSS Is Easier To Write In 2023</a>
+    </li>
+    <li>
+      <a href='https://www.smashingmagazine.com/2023/11/few-ways-css-easier-write-2023/'>Неизвестно полезный CSS</a>
     </li>
   </ul>
 </section>
