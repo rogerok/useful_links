@@ -60,6 +60,13 @@
     <li>
        <a href='https://habr.com/ru/companies/ozontech/articles/754526/'>Clean Git History, или Тёмная сторона VCS</a>
     </li>
+    <li>
+       <a href='https://www.smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/'>Recovering Deleted Files From Your Git Working Tree
+       </a>
+    </li>
+    <li>
+       <a href='https://habr.com/ru/articles/781794/'>Создание атомарных коммитов в Git</a>
+    </li>
   </ul>
 </section>
 
@@ -138,6 +145,12 @@
     </li>
     <li>
       <a href='https://www.smashingmagazine.com/2023/10/removing-object-properties-javascript/'>What Removing Object Properties Tells Us About JavaScript</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/articles/779458/'>Typescript: принцип подстановки функций</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/articles/778190/'>TypeScript: infer и conditional types. Продвинутый TS на примерах</a>
     </li>
   </ul>
 </section>
