@@ -117,6 +117,9 @@
     <li>
       <a href='https://github.com/HowProgrammingWorks/Index'>Репозиторий Тимура Шемсединова - создатель Метархии. Основы программирования, как работает программирование. Углубленный JS, Node js</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/companies/piter/articles/598791/'>Книга «System Design. Подготовка к сложному интервью»</a>
+    </li>
   </ul>
 </section>
 
