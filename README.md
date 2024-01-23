@@ -171,8 +171,9 @@
       <a href='https://habr.com/ru/articles/757770/'>Паттерны реактивности в современном JavaScript</a>
     </li>
     <li>
-      <a href='https://habr.com/ru/articles/757770/'>Паттерны реактивности в современном JavaScript</a>
+      <a href='https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/'>Let’s learn how modern JavaScript frameworks work by building one</a>
     </li>
+
   </ul>
 
 </section>
@@ -213,6 +214,9 @@
     </li>
     <li>
       <a href='https://habr.com/ru/companies/domclick/articles/672546/'> Пишем продвинутый планировщик с использованием React, Nest и NX. Часть 1: настройка проекта</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/articles/764554/'> React + Three.js. Создаём собственный 3D шутер. Часть 1</a>
     </li>
   </ul>
 </section>
