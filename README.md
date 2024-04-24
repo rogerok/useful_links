@@ -286,6 +286,24 @@
   </ul>
 
 
+### Алгоритмы, структуры данных, код
+<section id='algorithms'>
+  <ul>
+    <li>
+      <a href='https://www.kirupa.com/data_structures_algorithms/index.htm'>Learn Data Structures and Algorithms</a>
+    </li>
+    <li>
+      <a href='https://github.com/trekhleb/javascript-algorithms'>Алгоритмы и структуры данных на JavaScript</a>
+    </li>
+    <li>
+      <a href='https://github.com/HowProgrammingWorks/Index'>Репозиторий Тимура Шемсединова - создатель Метархии. Основы программирования, как работает программирование. Углубленный JS, Node js</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/companies/simbirsoft/articles/769312/'>9 алгоритмов сортировки и поиска для JS, о которых вас спросят на собеседовании</a>
+    </li>
+  </ul>
+</section>
+
 
 ### React Tools
 <section id='react-tools'>
@@ -313,23 +331,7 @@
 </section>
 
 
-### Алгоритмы, структуры данных, код
-<section id='algorithms'>
-  <ul>
-    <li>
-      <a href='https://www.kirupa.com/data_structures_algorithms/index.htm'>Learn Data Structures and Algorithms</a>
-    </li>
-    <li>
-      <a href='https://github.com/trekhleb/javascript-algorithms'>Алгоритмы и структуры данных на JavaScript</a>
-    </li>
-    <li>
-      <a href='https://github.com/HowProgrammingWorks/Index'>Репозиторий Тимура Шемсединова - создатель Метархии. Основы программирования, как работает программирование. Углубленный JS, Node js</a>
-    </li>
-    <li>
-      <a href='https://habr.com/ru/companies/simbirsoft/articles/769312/'>9 алгоритмов сортировки и поиска для JS, о которых вас спросят на собеседовании</a>
-    </li>
-  </ul>
-</section>
+
 
 ### Задачи, подготовка к интервью,
 <section id='challenges'>
