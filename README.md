@@ -175,12 +175,14 @@
       <a href='https://webdevblog.ru/proxy/'>Все, что вам нужно знать о Proxy в JavaScript</a>
     </li>
     <li>
+      <a href='https://lydiahallie.framer.website/blog/promise-execution'>JavaScript Visualized:Promise Execution</a>
+    </li>
+    <li>
       <a href='https://habr.com/ru/articles/757770/'>Паттерны реактивности в современном JavaScript</a>
     </li>
     <li>
       <a href='https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/'>Let’s learn how modern JavaScript frameworks work by building one</a>
     </li>
-
   </ul>
 
 </section>
