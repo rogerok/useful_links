@@ -313,20 +313,19 @@
     </li>
     <li>
       <a href='https://www.detroitlabs.com/blog/intro-to-mvvm-in-react-with-mobx/'>Intro to MVVM in React (with MobX)</a>
-  </li>
-  <li>
-      <a href='https://habr.com/ru/articles/764254/'>Как декораторы могут упростить разработку веб-форм Mobx</a>
-  </li>
-  <li>
-      <a href='https://github.com/mobxjs-ru/api-by-config/tree/main'> Mobx как можно организовать API при помощи декларативных конфигов</a>
-  </li>
-  <li>
-      <a href='https://github.com/mobxjs-ru'> Репозиторий с примерами использования Mobx</a>
-  </li>
-  <li>
-      <a href='https://habr.com/ru/articles/689374/> Под капотом у Mobx. Пишем свою реактивную библиотеку с нуля
-</a>
-  </li>
+    </li>
+    <li>
+        <a href='https://habr.com/ru/articles/764254/'>Как декораторы могут упростить разработку веб-форм Mobx</a>
+    </li>
+    <li>
+        <a href='https://github.com/mobxjs-ru/api-by-config/tree/main'>Mobx как можно организовать API при помощи декларативных конфигов</a>
+    </li>
+    <li>
+        <a href='https://github.com/mobxjs-ru'>Репозиторий с примерами использования Mobx</a>
+    </li>
+    <li>
+        <a href='https://habr.com/ru/articles/689374/'>Под капотом у Mobx. Пишем свою реактивную библиотеку с нуля</a>
+    </li>
   </ul>
 </section>
 
