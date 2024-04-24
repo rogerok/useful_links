@@ -9,6 +9,7 @@
   <li><a href='#typescript'>Typescript</a></li>
   <li><a href='#architecture'>Архитектура, паттерны, дизайн</a></li>
   <li><a href='#react'>React</a></li>
+  <li><a href='#nextjs'>NextJS</a></li>
   <li><a href='#react-tools'>Инструменты для React</a></li>
   <li><a href='#algorithms'>Алгоритмы, структуры данных, код</a></li>
   <li><a href='#challenges'>Задачи, подготовка к интервью</a></li>
@@ -154,6 +155,12 @@
     </li>
     <li>
       <a href='https://habr.com/ru/articles/778190/'>TypeScript: infer и conditional types. Продвинутый TS на примерах</a>
+    <li>
+      <a href='https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/'>Intermediate TypeScript and React Handbook – How to Build Strongly Typed Polymorphic Components</a>
+    </li>
+    <li>
+      <a href='https://www.jacobparis.com/content/react-as-child'>Implement Radix's asChild pattern in React</a>
+    </li>
     </li>
   </ul>
 </section>
@@ -264,6 +271,20 @@
 </section>
 
 
+
+### NextJS
+<section id='nextjs'>
+  <ul>
+    <li>
+        <a href='https://habr.com/ru/companies/auriga/articles/786912/'>Next.js. Технология современной веб-разработки</a>
+    </li>
+    <li>
+        <a href='https://habr.com/ru/companies/otus/articles/793624/'>Как создать YouTube GIF Maker с использованием Next.js, Node и RabbitMQ</a>
+    </li>
+  </ul>
+
+
+
 ### React Tools
 <section id='react-tools'>
   <ul>
@@ -275,6 +296,16 @@
   </li>
   <li>
       <a href='https://habr.com/ru/articles/764254/'>Как декораторы могут упростить разработку веб-форм Mobx</a>
+  </li>
+  <li>
+      <a href='https://github.com/mobxjs-ru/api-by-config/tree/main'> Mobx как можно организовать API при помощи декларативных конфигов</a>
+  </li>
+  <li>
+      <a href='https://github.com/mobxjs-ru'> Репозиторий с примерами использования Mobx</a>
+  </li>
+  <li>
+      <a href='https://habr.com/ru/articles/689374/> Под капотом у Mobx. Пишем свою реактивную библиотеку с нуля
+</a>
   </li>
   </ul>
 </section>
