@@ -227,6 +227,10 @@
     <li>
       <a href='https://habr.com/ru/articles/764554/'> React + Three.js. Создаём собственный 3D шутер. Часть 1</a>
     </li>
+    <li>
+      <a href='https://incepter.github.io/how-react-works/'> How React works - тут максимально расписано как реакт работает под капотом</a>
+    </li>
+    
   </ul>
 </section>
 
