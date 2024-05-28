@@ -68,6 +68,12 @@
     <li>
        <a href='https://habr.com/ru/articles/781794/'>Создание атомарных коммитов в Git</a>
     </li>
+    <li>
+       <a href='https://dangitgit.com/ru'>Чёрт побери, Git!?!</a>
+    </li>
+    <li>
+       <a href='https://firstaidgit.ru/'>first aid Коллекция часто задаваемых вопросов по Git с возможностью поиска</a>
+    </li>
   </ul>
 </section>
 
@@ -273,6 +279,9 @@
     <li>
       <a href='https://blog.thoughtspile.tech/tags/react/'>Vladimir Klepov статьи про реакт</a>
     </li>
+    <li>
+      <a href='https://www.codewithantonio.com/'>Code with Antonio - большой блог с видео разработки веб-приложений</a>
+    </li>
   </ul>
 </section>
 
@@ -286,6 +295,9 @@
     </li>
     <li>
         <a href='https://habr.com/ru/companies/otus/articles/793624/'>Как создать YouTube GIF Maker с использованием Next.js, Node и RabbitMQ</a>
+    </li>
+    <li>
+      <a href='https://www.codewithantonio.com/'>Code with Antonio - большой блог с видео разработки веб-приложений</a>
     </li>
   </ul>
 
@@ -383,6 +395,9 @@
     </li>
     <li>
       <a href='https://ishadeed.com/article/responsive-design/'>The Guide To Responsive Design In 2023 and Beyond</a>
+    </li>
+    <li>
+      <a href='https://www.codewithantonio.com/'>Code with Antonio - большой блог с видео разработки веб-приложений</a>
     </li>
   </ul>
 </section>
