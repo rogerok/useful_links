@@ -247,6 +247,9 @@
         <a href='https://habr.com/ru/articles/692218/'>MobX с MVVM упрощает жизнь Frontend разработчика гораздо сильнее Redux'а</a>
     </li>
     <li>
+        <a href='https://mobx-cookbook.github.io/installation'>MobX Cookbook</a>
+    </li>
+    <li>
       <a href='https://habr.com/ru/companies/alfa/articles/647013/'>Улучшаем дизайн React приложения с помощью Compound components</a>
     </li>
    <li>
