@@ -328,6 +328,9 @@
     <li>
       <a href='https://habr.com/ru/companies/simbirsoft/articles/769312/'>9 алгоритмов сортировки и поиска для JS, о которых вас спросят на собеседовании</a>
     </li>
+    <li>
+      <a href='https://github.com/tshemsedinov/Programming-Knowledge/tree/ru'>Самые важные знания для программиста. Тимур Шемсединов</a>
+    </li>
   </ul>
 </section>
 
