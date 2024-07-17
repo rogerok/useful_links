@@ -127,6 +127,9 @@
     <li>
       <a href='https://habr.com/ru/companies/piter/articles/598791/'>Книга «System Design. Подготовка к сложному интервью»</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/companies/piter/articles/820027/'>Основы typescript книга</a>
+    </li>
   </ul>
 </section>
 
@@ -176,6 +179,12 @@
     </li>
     <li>
       <a href='https://react-typescript-cheatsheet.netlify.app/'>React TypeScript Cheatsheets</a>
+    </li>
+    <li>
+      <a href='https://frontendmasters.com/blog/testing-types-in-typescript/'>Testing Types in TypeScript</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/companies/piter/articles/820027/'>Основы typescript книга</a>
     </li>
   </ul>
 </section>
