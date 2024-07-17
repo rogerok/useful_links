@@ -168,6 +168,12 @@
       <a href='https://www.jacobparis.com/content/react-as-child'>Implement Radix's asChild pattern in React</a>
     </li>
     </li>
+    <li>
+      <a href='https://medium.com/free-code-camp/typescript-curry-ramda-types-f747e99744ab'>Learn Advanced TypeScript Types</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/companies/timeweb/articles/685954/'>TypeScript в деталях. Часть 1</a>
+    </li>
   </ul>
 </section>
 
@@ -236,7 +242,9 @@
     <li>
       <a href='https://incepter.github.io/how-react-works/'> How React works - тут максимально расписано как реакт работает под капотом</a>
     </li>
-    
+    <li>
+      <a href='https://habr.com/ru/articles/813551/'>Попытка создать идеальный компонент формы</a>
+    </li>
   </ul>
 </section>
 
@@ -283,7 +291,7 @@
       <a href='https://blog.thoughtspile.tech/tags/react/'>Vladimir Klepov статьи про реакт</a>
     </li>
     <li>
-      <a href='https://www.codewithantonio.com/'>Code with Antonio - большой блог с видео разработки веб-приложений</a>
+      <a href='https://www.codewithantonAdvancedio.com/'>Code with Antonio - большой блог с видео разработки веб-приложений</a>
     </li>
   </ul>
 </section>
@@ -465,6 +473,10 @@
     <li>
       <a href='https://medium.com/@nikbenlioglu/how-to-build-a-to-do-list-telegram-bot-with-the-golang-postgresql-database-b77b1ec014ba'>How to build a Telegram Bot with the GOLANG (PostgreSQL)</a>
     </li>
+    <li>
+      <a href='http://go-database-sql.org/'>Go database/sql tutorial</a>
+    </li>
+    
   </ul>
 </section>
 
