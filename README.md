@@ -399,9 +399,6 @@
       <a href='https://www.30secondsofcode.org/'>30 seconds of code - short code snippets for all your development needs.</a>
     </li>
     <li>
-      <a href='https://andreasbm.github.io/web-skills/'>30 seconds of code - short code snippets for all your development needs.</a>
-    </li>
-    <li>
       <a href='https://web.dev/sign-in-form-best-practices/'>Рекомендации по формам входа в систему</a>
     </li>
     <li>
@@ -409,6 +406,9 @@
     </li>
     <li>
       <a href='https://www.codewithantonio.com/'>Code with Antonio - большой блог с видео разработки веб-приложений</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/companies/agima/articles/825080/'>Полный гайд по UI-китам: как их создавать, подключать и ничего не бояться</a>
     </li>
   </ul>
 </section>
@@ -476,7 +476,9 @@
     <li>
       <a href='http://go-database-sql.org/'>Go database/sql tutorial</a>
     </li>
-    
+    <li>
+      <a href='https://habr.com/ru/companies/oleg-bunin/articles/461935/'>Как работать с Postgres в Go: практики, особенности, нюансы</a>
+    </li>
   </ul>
 </section>
 
