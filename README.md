@@ -174,6 +174,9 @@
     <li>
       <a href='https://habr.com/ru/companies/timeweb/articles/685954/'>TypeScript в деталях. Часть 1</a>
     </li>
+    <li>
+      <a href='https://react-typescript-cheatsheet.netlify.app/'>React TypeScript Cheatsheets</a>
+    </li>
   </ul>
 </section>
 
@@ -243,8 +246,9 @@
       <a href='https://incepter.github.io/how-react-works/'> How React works - тут максимально расписано как реакт работает под капотом</a>
     </li>
     <li>
-      <a href='https://habr.com/ru/articles/813551/'>Попытка создать идеальный компонент формы</a>
+      <a href='https://www.patterns.dev/'> Учебник паттернов</a>
     </li>
+    
   </ul>
 </section>
 
@@ -292,6 +296,9 @@
     </li>
     <li>
       <a href='https://www.codewithantonAdvancedio.com/'>Code with Antonio - большой блог с видео разработки веб-приложений</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/articles/813551/'>Попытка создать идеальный компонент формы</a>
     </li>
   </ul>
 </section>
@@ -444,6 +451,9 @@
   <ul>
     <li>
       <a href='https://lifehacker.ru/komandy-linux/'>85 команд Linux на все случаи жизни</a>
+    </li>
+    <li>
+      <a href='https://cmdchallenge.com/'>CMD challenge - тренажер консоли</a>
     </li>
   </ul>
 </section>
