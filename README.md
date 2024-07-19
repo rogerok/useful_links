@@ -501,6 +501,9 @@
     <li>
       <a href='https://habr.com/ru/companies/oleg-bunin/articles/461935/'>Как работать с Postgres в Go: практики, особенности, нюансы</a>
     </li>
+    <li>
+      <a href='https://dev.to/kashifsoofi/rest-api-with-go-chi-mysql-and-sqlx-39fa'>REST API with Go, Chi, MySQL and sqlx</a>
+    </li>
   </ul>
 </section>
 
