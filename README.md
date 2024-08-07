@@ -92,6 +92,9 @@
     <li>
       <a href='https://blog.thoughtspile.tech/tags/react/'>Vladimir Klepov статьи про реакт</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/articles/828912/'>Vladimir Klepov статьи про реакт</a>
+    </li>
   </ul>
 </section>
 
@@ -170,7 +173,12 @@
     <li>
       <a href='https://www.jacobparis.com/content/react-as-child'>Implement Radix's asChild pattern in React</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/companies/timeweb/articles/685954/'>TypeScript в деталях. Часть 1</a>
     </li>
+<<<<<<< HEAD
+    </li>
+=======
     <li>
       <a href='https://medium.com/free-code-camp/typescript-curry-ramda-types-f747e99744ab'>Learn Advanced TypeScript Types</a>
     </li>
@@ -186,6 +194,7 @@
     <li>
       <a href='https://habr.com/ru/companies/piter/articles/820027/'>Основы typescript книга</a>
     </li>
+>>>>>>> e9e99e308381c95077ba6376abe5ab6448b26ac8
   </ul>
 </section>
 
@@ -255,9 +264,11 @@
       <a href='https://incepter.github.io/how-react-works/'> How React works - тут максимально расписано как реакт работает под капотом</a>
     </li>
     <li>
-      <a href='https://www.patterns.dev/'> Учебник паттернов</a>
+      <a href='https://www.patterns.dev/'> учебник паттернов</a>
     </li>
-    
+    <li>
+      <a href='https://commerce.nearform.com/blog/2024/tale-of-a-refactor'>Tale of Refactor</a>
+    </li>
   </ul>
 </section>
 
@@ -346,6 +357,9 @@
     </li>
     <li>
       <a href='https://github.com/tshemsedinov/Programming-Knowledge/tree/ru'>Самые важные знания для программиста. Тимур Шемсединов</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/companies/timeweb/articles/826424/'>JavaScript: структуры данных и алгоритмы. Часть 1</a>
     </li>
   </ul>
 </section>
