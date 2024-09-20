@@ -518,6 +518,9 @@
     <li>
       <a href='https://dev.to/kashifsoofi/rest-api-with-go-chi-mysql-and-sqlx-39fa'>REST API with Go, Chi, MySQL and sqlx</a>
     </li>
+    <li>
+      <a href='https://medium.com/@nbenliogludev/how-to-build-a-to-do-list-telegram-bot-with-the-golang-postgresql-database-b77b1ec014ba'>How to build a Telegram Bot with the GOLANG(PostgreSQL</a>
+    </li>
   </ul>
 </section>
 
