@@ -214,8 +214,18 @@
       <a href='https://habr.com/ru/articles/757770/'>Паттерны реактивности в современном JavaScript</a>
     </li>
     <li>
+      <a href='https://habr.com/ru/companies/piter/articles/845702/'>Книга: «Паттерны проектирования JavaScript» </a>
+    </li>
+    <li>
       <a href='https://nolanlawson.com/2023/12/02/lets-learn-how-modern-javascript-frameworks-work-by-building-one/'>Let’s learn how modern JavaScript frameworks work by building one</a>
     </li>
+     <li>
+      <a href='https://github.com/tshemsedinov/Patterns-JavaScript'>🧩 Patterns for JavaScript & Node.js. Тимур Шемсединов</a>
+    </li>
+    <li>
+      <a href='https://dev.to/srishtikprasad/low-level-design-and-solid-principles-4am9'>Low level design and SOLID Principles</a>
+    </li>
+
   </ul>
 
 </section>
@@ -358,9 +368,8 @@
     <li>
       <a href='https://github.com/tshemsedinov/Programming-Knowledge/tree/ru'>Самые важные знания для программиста. Тимур Шемсединов</a>
     </li>
-    <li>
-      <a href='https://github.com/tshemsedinov/Patterns-JavaScript'>🧩 Patterns for JavaScript & Node.js. Тимур Шемсединов</a>
-    </li>
+
+    
     <li>
       <a href='https://habr.com/ru/companies/timeweb/articles/826424/'>JavaScript: структуры данных и алгоритмы. Часть 1</a>
     </li>
