@@ -330,6 +330,9 @@
     <li>
       <a href='https://habr.com/ru/articles/813551/'>Попытка создать идеальный компонент формы</a>
     </li>
+    <li>
+      <a href='https://www.developerway.com/posts/replacing-react-with-css'>Replacing React code with CSS :has selector</a>
+    </li>
   </ul>
 </section>
 
