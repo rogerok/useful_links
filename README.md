@@ -194,7 +194,6 @@
     <li>
       <a href='https://habr.com/ru/companies/piter/articles/820027/'>Основы typescript книга</a>
     </li>
->>>>>>> e9e99e308381c95077ba6376abe5ab6448b26ac8
   </ul>
 </section>
 
@@ -371,8 +370,6 @@
     <li>
       <a href='https://github.com/tshemsedinov/Programming-Knowledge/tree/ru'>Самые важные знания для программиста. Тимур Шемсединов</a>
     </li>
-
-    
     <li>
       <a href='https://habr.com/ru/companies/timeweb/articles/826424/'>JavaScript: структуры данных и алгоритмы. Часть 1</a>
     </li>
