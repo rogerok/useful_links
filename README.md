@@ -359,6 +359,9 @@
       <a href='https://github.com/tshemsedinov/Programming-Knowledge/tree/ru'>Самые важные знания для программиста. Тимур Шемсединов</a>
     </li>
     <li>
+      <a href='https://github.com/tshemsedinov/Patterns-JavaScript'>🧩 Patterns for JavaScript & Node.js. Тимур Шемсединов</a>
+    </li>
+    <li>
       <a href='https://habr.com/ru/companies/timeweb/articles/826424/'>JavaScript: структуры данных и алгоритмы. Часть 1</a>
     </li>
   </ul>
@@ -521,6 +524,10 @@
     <li>
       <a href='https://medium.com/@nbenliogludev/how-to-build-a-to-do-list-telegram-bot-with-the-golang-postgresql-database-b77b1ec014ba'>How to build a Telegram Bot with the GOLANG(PostgreSQL</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/companies/tensor/articles/780276/'>Курс «PostgreSQL для начинающих»: #2 — Простые SELECT</a>
+    </li>
+
   </ul>
 </section>
 
