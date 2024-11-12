@@ -536,7 +536,9 @@
     <li>
       <a href='https://habr.com/ru/companies/tensor/articles/780276/'>Курс «PostgreSQL для начинающих»: #2 — Простые SELECT</a>
     </li>
-
+    <li>
+      <a href="https://stepik.org/course/187490/syllabus"> Хороший курс по Go от ВК </a>
+    </li>
   </ul>
 </section>
 
