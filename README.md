@@ -194,6 +194,9 @@
     <li>
       <a href='https://habr.com/ru/companies/piter/articles/820027/'>Основы typescript книга</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/companies/cloud_ru/articles/860764/'>Рецепты TypeScript: подстановка параметров в путь</a>
+    </li>
   </ul>
 </section>
 
