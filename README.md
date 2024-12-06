@@ -550,5 +550,8 @@
     <li>
        <a href='https://www.freecodecamp.org/news/deployment-strategies-for-nextjs-apps/'>How to Choose a Deployment Strategy for Your Next.js Application</a>
     </li>
+    <li>
+       <a href='https://www.youtube.com/watch?v=sIVL4JMqRfc'>Подробный гайд по деплою next.js приложения на vps</a>
+    </li>
   </ul>
 </section>
