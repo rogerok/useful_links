@@ -133,7 +133,13 @@
     <li>
       <a href='https://habr.com/ru/companies/piter/articles/820027/'>Основы typescript книга</a>
     </li>
+    <li>
+      <a href=' https://refactor-like-a-superhero.vercel.app/ru'>Рефакторинг на максималках. Это книга о том, как эффективно и без боли рефакторить код. </a>
+    </li>
+   
   </ul>
+
+  
 </section>
 
 
