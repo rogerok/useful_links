@@ -203,6 +203,9 @@
     <li>
       <a href='https://habr.com/ru/companies/cloud_ru/articles/860764/'>Рецепты TypeScript: подстановка параметров в путь</a>
     </li>
+    <li>
+      <a href='  https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo'>>Ютуб плейлист функциональное программирование на typescript</a>
+    </li>
   </ul>
 </section>
 
