@@ -290,6 +290,9 @@
     <li>
       <a href='https://commerce.nearform.com/blog/2024/tale-of-a-refactor'>Tale of Refactor</a>
     </li>
+    <li>
+      <a href='https://martinfowler.com/articles/modularizing-react-apps.html'>Modularizing React Applications with Established UI Patterns</a>
+    </li>
   </ul>
 </section>
 
