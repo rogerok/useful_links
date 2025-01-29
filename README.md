@@ -402,6 +402,9 @@
       <a href='https://www.detroitlabs.com/blog/intro-to-mvvm-in-react-with-mobx/'>Intro to MVVM in React (with MobX)</a>
     </li>
     <li>
+      <a href='https://habr.com/ru/articles/546628/'>Реализация архитектуры Redux на MobX. Часть 2: «Пример на MobX»</a>
+    </li>
+    <li>
         <a href='https://habr.com/ru/articles/764254/'>Как декораторы могут упростить разработку веб-форм Mobx</a>
     </li>
     <li>
