@@ -565,6 +565,9 @@
     <li>
       <a href="https://stepik.org/course/187490/syllabus"> Хороший курс по Go от ВК </a>
     </li>
+    <li>
+      <a href="https://stepik.org/course/187490/syllabus](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api">Best Practices for Designing a Pragmatic RESTful API</a>
+    </li>
   </ul>
 </section>
 
