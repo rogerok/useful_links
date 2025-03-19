@@ -347,6 +347,10 @@
     <li>
       <a href='https://www.developerway.com/posts/replacing-react-with-css'>Replacing React code with CSS :has selector</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/companies/yoomoney/articles/880132/'>Как PWA помогло клиентам ЮMoney продолжать получать пуши — даже без приложения</a>
+    </li>
+   
   </ul>
 </section>
 
@@ -473,6 +477,10 @@
     <li>
       <a href='https://habr.com/ru/companies/agima/articles/825080/'>Полный гайд по UI-китам: как их создавать, подключать и ничего не бояться</a>
     </li>
+    <li>
+      <a href='https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs'>How to favicon</a>
+    </li>
+    
   </ul>
 </section>
 
