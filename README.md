@@ -1,4 +1,4 @@
-# ссылки, которые могут быть полезны
+# Ссылки, которые могут быть полезны
 
 <ul>
   <li><a href='#web'>Web</a></li>
@@ -40,6 +40,30 @@
     </li>
     <li>
       <a href='https://explained-from-first-principles.com/internet/'>How Internet Works</a>
+    </li>
+    <li>
+      <a href='https://www.speedcurve.com/blog/15-neglected-page-speed-optimizations/'>15 page speed optimizations that sites ignore (at their own risk)</a>
+    </li>
+    <li>
+      <a href='https://www.speedcurve.com/web-performance-guide/understanding-and-improving-cumulative-layout-shift/'>Understanding and Improving Cumulative Layout Shift (CLS)</a>
+    </li>
+    <li>
+      <a href='https://www.speedcurve.com/web-performance-guide/understanding-and-improving-largest-contentful-paint/'>Understanding and Improving Largest Contentful Paint</a>
+    </li>
+    <li>
+      <a href='https://web.dev/articles/fetch-priority'>Optimize resource loading with the Fetch Priority API</a>
+    </li>
+    <li>
+      <a href='https://kurtextrem.de/posts/improve-inp'>How To Improve INP: Yield Patterns</a>
+    </li>
+    <li>
+      <a href='https://javascript.plainenglish.io/how-to-improve-largest-contentful-paint-lcp-be5d598caf38'>How to Improve Largest Contentful Paint (LCP)?</a>
+    </li>
+    <li>
+      <a href='https://calendar.perfplanet.com/2024/5-tips-to-effectively-optimize-inp-in-react/'>5 tips to effectively optimize INP in React</a>
+    </li>
+    <li>
+      <a href='https://kurtextrem.de/posts/improve-inp-react'>How To Improve INP: React⚛️</a>
     </li>
   </ul>
 </section>
@@ -182,9 +206,6 @@
     <li>
       <a href='https://habr.com/ru/companies/timeweb/articles/685954/'>TypeScript в деталях. Часть 1</a>
     </li>
-<<<<<<< HEAD
-    </li>
-=======
     <li>
       <a href='https://medium.com/free-code-camp/typescript-curry-ramda-types-f747e99744ab'>Learn Advanced TypeScript Types</a>
     </li>
@@ -204,7 +225,19 @@
       <a href='https://habr.com/ru/companies/cloud_ru/articles/860764/'>Рецепты TypeScript: подстановка параметров в путь</a>
     </li>
     <li>
-      <a href='  https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo'>>Ютуб плейлист функциональное программирование на typescript</a>
+      <a href='https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo'>>Ютуб плейлист функциональное программирование на typescript</a>
+    </li>
+    <li>
+      <a href='https://2ality.com/2025/01/tsconfig-json.html'>A guide to tsconfig.json</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/articles/800713/'>JS. Валидация данных. Пишем свой YUP</a>
+    </li>
+    <li>
+      <a href='https://iamsahaj.xyz/blog/typesafe-routing-with-react-router/'>Typesafe Routing with React-Router: Advanced TypeScript</a>
+    </li>
+    <li>
+      <a href='https://dev.to/shafayeat/mastering-concurrency-and-parallelism-in-typescript-1bgf'>Mastering Concurrency and Parallelism in TypeScript</a>
     </li>
   </ul>
 </section>
@@ -236,7 +269,15 @@
     <li>
       <a href='https://dev.to/srishtikprasad/low-level-design-and-solid-principles-4am9'>Low level design and SOLID Principles</a>
     </li>
-
+    <li>
+      <a href='https://blog.apify.com/javascript-parse-html/'>How to parse HTML in JavaScript</a>
+    </li>
+    <li>
+      <a href='https://dev.to/carlillo/design-patterns---strategy-pattern-in-javascript-2hg3'>Design Patterns - Strategy Pattern in JavaScript</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/companies/timeweb/articles/826424/'>JavaScript: структуры данных и алгоритмы. Часть 1</a>
+    </li>
   </ul>
 
 </section>
@@ -292,6 +333,9 @@
     </li>
     <li>
       <a href='https://martinfowler.com/articles/modularizing-react-apps.html'>Modularizing React Applications with Established UI Patterns</a>
+    </li>
+    <li>
+      <a href='https://medium.com/@techievinay01/the-20-essential-principles-of-software-development-lod-soc-solid-and-beyond-6fd50774f994'>The 20 Essential Principles of Software Development: LoD, SoC, SOLID, and Beyond.</a>
     </li>
   </ul>
 </section>
@@ -350,7 +394,27 @@
     <li>
       <a href='https://habr.com/ru/companies/yoomoney/articles/880132/'>Как PWA помогло клиентам ЮMoney продолжать получать пуши — даже без приложения</a>
     </li>
-   
+    <li>
+      <a href='https://gitverse.ru/sbertech/ui-kit-ce'>Ui kit от сбера</a>
+    </li>
+    <li>
+      <a href='https://blog.logrocket.com/understanding-optimistic-ui-react-useoptimistic-hook/'>Understanding optimistic UI and React’s useOptimistic Hook</a>
+    </li>
+    <li>
+      <a href='https://dev.to/alexandereardon/wait-for-pending-a-not-great-alternative-suspense-algorithm-1gdl'>Wait for pending: A Suspense algorithm exploration</a>
+    </li>
+    <li>
+      <a href='https://javascript.plainenglish.io/the-complete-guide-to-mastering-file-uploads-b581e9ee9ee8'>The Complete Guide to Mastering File Uploads</a>
+    </li>
+    <li>
+      <a href='https://timtech.blog/posts/react-server-components-rsc-no-framework/'>React Server Components, without a framework?</a>
+    </li>
+    <li>
+      <a href='https://calendar.perfplanet.com/2024/5-tips-to-effectively-optimize-inp-in-react/'>5 tips to effectively optimize INP in React</a>
+    </li>
+    <li>
+      <a href='https://kurtextrem.de/posts/improve-inp-react'>How To Improve INP: React⚛️</a>
+    </li>
   </ul>
 </section>
 
@@ -369,7 +433,7 @@
       <a href='https://www.codewithantonio.com/'>Code with Antonio - большой блог с видео разработки веб-приложений</a>
     </li>
   </ul>
-
+</section>
 
 ### Алгоритмы, структуры данных, код
 <section id='algorithms'>
@@ -391,6 +455,18 @@
     </li>
     <li>
       <a href='https://habr.com/ru/companies/timeweb/articles/826424/'>JavaScript: структуры данных и алгоритмы. Часть 1</a>
+    </li>
+    <li>
+      <a href='https://dev.to/carlillo/design-patterns---strategy-pattern-in-javascript-2hg3'>Design Patterns - Strategy Pattern in JavaScript</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/companies/gnivc/articles/855346/'>Отладка и мониторинг в MobX: trace, introspection и spy</a>
+    </li>
+    <li>
+      <a href='https://seanprashad.com/leetcode-patterns/'>Leetcode Patterns</a>
+    </li>
+    <li>
+      <a href='https://blog.algomaster.io/p/15-leetcode-patterns'>LeetCode was HARD until I Learned these 15 Patterns</a>
     </li>
   </ul>
 </section>
@@ -480,6 +556,12 @@
     <li>
       <a href='https://evilmartians.com/chronicles/how-to-favicon-in-2021-six-files-that-fit-most-needs'>How to favicon</a>
     </li>
+    <li>
+      <a href='https://blog.sentry.io/how-to-make-your-web-page-faster-before-it-even-loads/'>How to make your web page faster before it even loads</a>
+    </li>
+    <li>
+      <a href='https://www.greatfrontend.com/front-end-system-design-playbook'>Front End System Design Playbook</a>
+    </li>
     
   </ul>
 </section>
@@ -533,6 +615,15 @@
     </li>
     <li>
       <a href='https://www.smashingmagazine.com/2023/11/few-ways-css-easier-write-2023/'>Неизвестно полезный CSS</a>
+    </li>    
+    <li>
+      <a href='https://www.freecodecamp.org/news/media-queries-vs-container-queries/'>Media Queries vs Container Queries – Which Should You Use and When?</a>
+    </li>
+    <li>
+      <a href='https://ishadeed.com/article/display-contents/'>CSS display contents</a>
+    </li>
+    <li>
+      <a href='https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/'>Improving rendering performance with CSS content-visibility</a>
     </li>
   </ul>
 </section>
@@ -564,9 +655,12 @@
     </li>
     <li>
       <a href="https://stepik.org/course/187490/syllabus"> Хороший курс по Go от ВК </a>
+    </li> 
+    <li>
+      <a href="https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api">Best Practices for Designing a Pragmatic RESTful API</a>
     </li>
     <li>
-      <a href="https://stepik.org/course/187490/syllabus](https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api">Best Practices for Designing a Pragmatic RESTful API</a>
+      <a href="https://www.netguru.com/blog/nginx-tutorial-basics-concepts">Nginx Tutorial #1: Basic Concepts</a>
     </li>
   </ul>
 </section>
@@ -581,6 +675,9 @@
     </li>
     <li>
        <a href='https://www.youtube.com/watch?v=sIVL4JMqRfc'>Подробный гайд по деплою next.js приложения на vps</a>
+    </li>
+    <li>
+      <a href="https://www.netguru.com/blog/nginx-tutorial-basics-concepts">Nginx Tutorial #1: Basic Concepts</a>
     </li>
   </ul>
 </section>
