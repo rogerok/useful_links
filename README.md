@@ -20,9 +20,10 @@
   <li><a href='#css'>CSS</a></li>
   <li><a href='#backend'>Backend</a></li>
   <li><a href='#infrastructure'>Деплой, ифнраструктура, сборка</a></li>
+  <li><a href='#network'>Сети</a></li>
 
 
-<ul>
+</ul>
 
 
 
@@ -239,6 +240,9 @@
     <li>
       <a href='https://dev.to/shafayeat/mastering-concurrency-and-parallelism-in-typescript-1bgf'>Mastering Concurrency and Parallelism in TypeScript</a>
     </li>
+    <li>
+      <a href='https://2ality.com/2025/02/satisfies-operator.html'>TypeScript: the satisfies operator</a>
+    </li>
   </ul>
 </section>
 
@@ -337,6 +341,9 @@
     <li>
       <a href='https://medium.com/@techievinay01/the-20-essential-principles-of-software-development-lod-soc-solid-and-beyond-6fd50774f994'>The 20 Essential Principles of Software Development: LoD, SoC, SOLID, and Beyond.</a>
     </li>
+    <li>
+      <a href='https://neetcode.io/'>NeetCode - Roadmap по LeetCode</a>
+    </li>
   </ul>
 </section>
 
@@ -415,6 +422,12 @@
     <li>
       <a href='https://kurtextrem.de/posts/improve-inp-react'>How To Improve INP: React⚛️</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/articles/870748/'>Оптимизация React-приложений: Используем useTransition, useDeferredValue и useOptimistic для плавного UI</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/companies/tbank/articles/883438/'>UX для frontend на основе дизайн-принципов MUI</a>
+    </li>
   </ul>
 </section>
 
@@ -431,6 +444,9 @@
     </li>
     <li>
       <a href='https://www.codewithantonio.com/'>Code with Antonio - большой блог с видео разработки веб-приложений</a>
+    </li>
+    <li>
+      <a href='https://www.freecodecamp.org/news/optimize-nextjs-web-apps-for-better-performance/'>How to Optimize Next.js Web Apps for Better Performance</a>
     </li>
   </ul>
 </section>
@@ -562,6 +578,9 @@
     <li>
       <a href='https://www.greatfrontend.com/front-end-system-design-playbook'>Front End System Design Playbook</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/companies/ruvds/articles/493716/'>Вывод типов в TypeScript с использованием конструкции as const и ключевого слова infer</a>
+    </li>
     
   </ul>
 </section>
@@ -625,6 +644,12 @@
     <li>
       <a href='https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/'>Improving rendering performance with CSS content-visibility</a>
     </li>
+    <li>
+      <a href='https://dev.to/lovestaco/how-this-scss-project-stays-organized-starting-from-a-map-3phb'>How This SCSS Project Stays Organized Starting from a Map</a>
+    </li>
+    <li>
+      <a href='https://blogs.windows.com/msedgedev/2025/03/19/minding-the-gaps-a-new-way-to-draw-separators-in-css/'>Minding the gaps: A new way to draw separators in CSS</a>
+    </li>
   </ul>
 </section>
 
@@ -662,6 +687,9 @@
     <li>
       <a href="https://www.netguru.com/blog/nginx-tutorial-basics-concepts">Nginx Tutorial #1: Basic Concepts</a>
     </li>
+    <li>
+      <a href="https://habr.com/ru/articles/892480/">Регистрация по взрослому: @AuthenticationalPrinciple, JWT, UserDetails</a>
+    </li>
   </ul>
 </section>
 
@@ -678,6 +706,18 @@
     </li>
     <li>
       <a href="https://www.netguru.com/blog/nginx-tutorial-basics-concepts">Nginx Tutorial #1: Basic Concepts</a>
+    </li>
+    <li>
+      <a href="https://habr.com/ru/companies/selectel/articles/747738/">Учимся разрабатывать REST API на Go на примере сокращателя ссылок</a>
+    </li>
+  </ul>
+</section>
+
+### Сети
+<section id='network'>
+  <ul>
+    <li>
+       <a href='https://linkmeup.ru/blog/1188/'>Сети для самых маленьких.</a>
     </li>
   </ul>
 </section>
