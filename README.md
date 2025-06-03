@@ -108,6 +108,10 @@
     <li>
       <a href='https://blog.thoughtspile.tech/tags/react/'>Vladimir Klepov статьи про реакт</a>
     </li>
+    <li>
+      <a href='https://my-js.org/'>Руководства, шпаргалки, вопросы и другие материалы по JavaScript, TypeScript, React, Next.js, Node.js, Express, Prisma, GraphQL, Docker, Rust и другим технологиям.
+</a>
+    </li>
   </ul>
 </section>
 
@@ -118,6 +122,10 @@
     <li>
       <a href='https://karpov.courses/dev/frontend'>FRONTEND УРОВНЯ ТОПОВЫХ КОМПАНИЙ</a>
     </li>
+    <li>
+      <a href='https://kobezzza.ru/'>Кобеза курсы. Продвинутые</a>
+    </li>
+    
   </ul>
 </section>
 
@@ -141,8 +149,6 @@
       <a href='https://habr.com/ru/companies/piter/articles/598791/'>Книга «System Design. Подготовка к сложному интервью»</a>
     </li>
   </ul>
-
-  
 </section>
 
 
@@ -424,6 +430,8 @@
 ### React Tools
 <section id='react-tools'>
   <ul>
+    <li><a href='https://habr.com/ru/companies/gnivc/articles/893108/'>Как MobX делает объекты реактивными с помощью Proxy
+</a></li>
     <li>
       <a href='https://habr.com/ru/articles/546628/'>Реализация архитектуры Redux на MobX. Часть 2: «Пример на MobX»</a>
     </li>
