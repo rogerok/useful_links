@@ -31,9 +31,6 @@
 <section id='web'>
   <ul>
     <li>
-      <a href='https://habr.com/ru/companies/otus/articles/706908/'>Несколько советов по работе с CORS для начинающих разработчиков</a>
-    </li>
-    <li>
       <a href='https://habr.com/ru/companies/bastion/articles/757590/'>Ликбез по распространенным Client-Side уязвимостям</a>
     </li>
     <li>
@@ -66,6 +63,9 @@
     <li>
       <a href='https://kurtextrem.de/posts/improve-inp-react'>How To Improve INP: React⚛️</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/articles/828912/'>Стреляем себе в ногу из localStorage</a>
+    </li>
   </ul>
 </section>
 
@@ -78,20 +78,11 @@
        <a href='https://habr.com/ru/companies/ozontech/articles/754526/'>Clean Git History, или Тёмная сторона VCS</a>
     </li>
     <li>
-       <a href='https://habr.com/ru/companies/nixys/articles/758068/'>Приручаем GitLab: прикольные фишки и инциденты, которые упростят вашу жизнь</a>
-    </li>
-    <li>
        <a href='https://www.atlassian.com/git/tutorials'>Become a git guru</a>
-    </li>
-    <li>
-       <a href='https://habr.com/ru/companies/ozontech/articles/754526/'>Clean Git History, или Тёмная сторона VCS</a>
     </li>
     <li>
        <a href='https://www.smashingmagazine.com/2023/12/recovering-deleted-files-git-working-tree/'>Recovering Deleted Files From Your Git Working Tree
        </a>
-    </li>
-    <li>
-       <a href='https://habr.com/ru/articles/781794/'>Создание атомарных коммитов в Git</a>
     </li>
     <li>
        <a href='https://dangitgit.com/ru'>Чёрт побери, Git!?!</a>
@@ -116,9 +107,6 @@
     </li>
     <li>
       <a href='https://blog.thoughtspile.tech/tags/react/'>Vladimir Klepov статьи про реакт</a>
-    </li>
-    <li>
-      <a href='https://habr.com/ru/articles/828912/'>Vladimir Klepov статьи про реакт</a>
     </li>
   </ul>
 </section>
@@ -150,18 +138,8 @@
        <a href='https://github.com/fxzhukov/Functional-Light-JS-RU'>Функционально-Легкий JavaScript</a>
     </li>
     <li>
-      <a href='https://github.com/HowProgrammingWorks/Index'>Репозиторий Тимура Шемсединова - создатель Метархии. Основы программирования, как работает программирование. Углубленный JS, Node js</a>
-    </li>
-    <li>
       <a href='https://habr.com/ru/companies/piter/articles/598791/'>Книга «System Design. Подготовка к сложному интервью»</a>
     </li>
-    <li>
-      <a href='https://habr.com/ru/companies/piter/articles/820027/'>Основы typescript книга</a>
-    </li>
-    <li>
-      <a href='https://refactor-like-a-superhero.vercel.app/ru'> Рефакторинг на максималках. Это книга о том, как эффективно и без боли рефакторить код. </a>
-    </li>
-   
   </ul>
 
   
@@ -220,16 +198,10 @@
       <a href='https://frontendmasters.com/blog/testing-types-in-typescript/'>Testing Types in TypeScript</a>
     </li>
     <li>
-      <a href='https://habr.com/ru/companies/piter/articles/820027/'>Основы typescript книга</a>
-    </li>
-    <li>
       <a href='https://habr.com/ru/companies/cloud_ru/articles/860764/'>Рецепты TypeScript: подстановка параметров в путь</a>
     </li>
     <li>
       <a href='https://www.youtube.com/playlist?list=PLuPevXgCPUIMbCxBEnc1dNwboH6e2ImQo'>>Ютуб плейлист функциональное программирование на typescript</a>
-    </li>
-    <li>
-      <a href='https://2ality.com/2025/01/tsconfig-json.html'>A guide to tsconfig.json</a>
     </li>
     <li>
       <a href='https://habr.com/ru/articles/800713/'>JS. Валидация данных. Пишем свой YUP</a>
@@ -241,7 +213,7 @@
       <a href='https://dev.to/shafayeat/mastering-concurrency-and-parallelism-in-typescript-1bgf'>Mastering Concurrency and Parallelism in TypeScript</a>
     </li>
     <li>
-      <a href='https://2ality.com/2025/02/satisfies-operator.html'>TypeScript: the satisfies operator</a>
+      <a href='https://habr.com/ru/companies/ruvds/articles/493716/'>Вывод типов в TypeScript с использованием конструкции as const и ключевого слова infer</a>
     </li>
   </ul>
 </section>
@@ -324,9 +296,6 @@
       <a href='https://habr.com/ru/companies/domclick/articles/672546/'> Пишем продвинутый планировщик с использованием React, Nest и NX. Часть 1: настройка проекта</a>
     </li>
     <li>
-      <a href='https://habr.com/ru/articles/764554/'> React + Three.js. Создаём собственный 3D шутер. Часть 1</a>
-    </li>
-    <li>
       <a href='https://incepter.github.io/how-react-works/'> How React works - тут максимально расписано как реакт работает под капотом</a>
     </li>
     <li>
@@ -350,26 +319,8 @@
 ### React
 <section id='react'>
   <ul>
-    <li>
-        <a href='https://habr.com/ru/articles/692218/'>MobX с MVVM упрощает жизнь Frontend разработчика гораздо сильнее Redux'а</a>
-    </li>
-    <li>
-        <a href='https://mobx-cookbook.github.io/installation'>MobX Cookbook</a>
-    </li>
-    <li>
-      <a href='https://habr.com/ru/companies/alfa/articles/647013/'>Улучшаем дизайн React приложения с помощью Compound components</a>
-    </li>
    <li>
       <a href='https://habr.com/ru/companies/alfa/articles/647013/'>Улучшаем дизайн React приложения с помощью Compound components</a>
-    </li>
-    <li>
-      <a href='https://react.dev/learn/you-might-not-need-an-effect/'>You Might Not Need an Effect – React</a>
-    </li>
-    <li>
-      <a href='https://blog.logrocket.com/using-react-cloneelement-function/'>Using the React.cloneElement() function to clone elements</a>
-    </li>
-    <li>
-      <a href='https://blog.logrocket.com/complete-guide-react-refs/'>A complete guide to React refs</a>
     </li>
     <li>
       <a href='https://reactjsexample.com/'>ReactJs Examples - примеры различных компонентов на JS</a>
@@ -387,25 +338,13 @@
       <a href='https://dev.to/argonauta/react-advance-decoupling-your-components-in-the-right-way-4pkn'>React Advanced: Decoupling your components in the right way</a>
     </li>
     <li>
-      <a href='https://blog.thoughtspile.tech/tags/react/'>Vladimir Klepov статьи про реакт</a>
-    </li>
-    <li>
-      <a href='https://www.codewithantonAdvancedio.com/'>Code with Antonio - большой блог с видео разработки веб-приложений</a>
-    </li>
-    <li>
       <a href='https://habr.com/ru/articles/813551/'>Попытка создать идеальный компонент формы</a>
-    </li>
-    <li>
-      <a href='https://www.developerway.com/posts/replacing-react-with-css'>Replacing React code with CSS :has selector</a>
     </li>
     <li>
       <a href='https://habr.com/ru/companies/yoomoney/articles/880132/'>Как PWA помогло клиентам ЮMoney продолжать получать пуши — даже без приложения</a>
     </li>
     <li>
       <a href='https://gitverse.ru/sbertech/ui-kit-ce'>Ui kit от сбера</a>
-    </li>
-    <li>
-      <a href='https://blog.logrocket.com/understanding-optimistic-ui-react-useoptimistic-hook/'>Understanding optimistic UI and React’s useOptimistic Hook</a>
     </li>
     <li>
       <a href='https://dev.to/alexandereardon/wait-for-pending-a-not-great-alternative-suspense-algorithm-1gdl'>Wait for pending: A Suspense algorithm exploration</a>
@@ -418,9 +357,6 @@
     </li>
     <li>
       <a href='https://calendar.perfplanet.com/2024/5-tips-to-effectively-optimize-inp-in-react/'>5 tips to effectively optimize INP in React</a>
-    </li>
-    <li>
-      <a href='https://kurtextrem.de/posts/improve-inp-react'>How To Improve INP: React⚛️</a>
     </li>
     <li>
       <a href='https://habr.com/ru/articles/870748/'>Оптимизация React-приложений: Используем useTransition, useDeferredValue и useOptimistic для плавного UI</a>
@@ -461,9 +397,6 @@
       <a href='https://github.com/trekhleb/javascript-algorithms'>Алгоритмы и структуры данных на JavaScript</a>
     </li>
     <li>
-      <a href='https://github.com/HowProgrammingWorks/Index'>Репозиторий Тимура Шемсединова - создатель Метархии. Основы программирования, как работает программирование. Углубленный JS, Node js</a>
-    </li>
-    <li>
       <a href='https://habr.com/ru/companies/simbirsoft/articles/769312/'>9 алгоритмов сортировки и поиска для JS, о которых вас спросят на собеседовании</a>
     </li>
     <li>
@@ -492,16 +425,7 @@
 <section id='react-tools'>
   <ul>
     <li>
-        <a href='https://habr.com/ru/articles/692218/'>MobX с MVVM упрощает жизнь Frontend разработчика гораздо сильнее Redux'а</a>
-    </li>
-    <li>
-      <a href='https://www.detroitlabs.com/blog/intro-to-mvvm-in-react-with-mobx/'>Intro to MVVM in React (with MobX)</a>
-    </li>
-    <li>
       <a href='https://habr.com/ru/articles/546628/'>Реализация архитектуры Redux на MobX. Часть 2: «Пример на MobX»</a>
-    </li>
-    <li>
-        <a href='https://habr.com/ru/articles/764254/'>Как декораторы могут упростить разработку веб-форм Mobx</a>
     </li>
     <li>
         <a href='https://github.com/mobxjs-ru/api-by-config/tree/main'>Mobx как можно организовать API при помощи декларативных конфигов</a>
@@ -546,9 +470,6 @@
       <a href='https://phuoc.ng/collection/tips/'>Front-End development mastery: simple tips, tricks, and best practices</a>
     </li>
     <li>
-      <a href='https://phuoc.ng/collection/html-dom/'>Mastering DOM manipulation with vanilla JavaScript</a>
-    </li>
-    <li>
       <a href='https://phuoc.ng/collection/css-layout/'>A collection of popular CSS layouts and patterns that you can use right away</a>
     </li>
     <li>
@@ -559,12 +480,6 @@
     </li>
     <li>
       <a href='https://web.dev/sign-in-form-best-practices/'>Рекомендации по формам входа в систему</a>
-    </li>
-    <li>
-      <a href='https://ishadeed.com/article/responsive-design/'>The Guide To Responsive Design In 2023 and Beyond</a>
-    </li>
-    <li>
-      <a href='https://www.codewithantonio.com/'>Code with Antonio - большой блог с видео разработки веб-приложений</a>
     </li>
     <li>
       <a href='https://habr.com/ru/companies/agima/articles/825080/'>Полный гайд по UI-китам: как их создавать, подключать и ничего не бояться</a>
@@ -578,10 +493,6 @@
     <li>
       <a href='https://www.greatfrontend.com/front-end-system-design-playbook'>Front End System Design Playbook</a>
     </li>
-    <li>
-      <a href='https://habr.com/ru/companies/ruvds/articles/493716/'>Вывод типов в TypeScript с использованием конструкции as const и ключевого слова infer</a>
-    </li>
-    
   </ul>
 </section>
 
@@ -589,16 +500,10 @@
 <section id='tools'>
   <ul>
     <li>
-      <a href='https://habr.com/ru/articles/754154/'>Insomnia — Инструкция по применению</a>
-    </li>
-    <li>
       <a href='https://habr.com/ru/articles/663904/'>11 хитростей Chrome DevTools</a>
     </li>
     <li>
       <a href='https://javascript.plainenglish.io/11-useful-frontend-web-developer-web-apps-to-boost-productivity-c8b2afeab251'>11 Useful Frontend Web Developer Web Apps to Boost Productivity</a>
-    </li>
-    <li>
-      <a href='https://dev-doc.clickup.com/333/p/h/ad-1563600/ac0768d6b9afd1c'>AI Prompts and Tools</a>
     </li>
     <li>
       <a href='https://alan.norbauer.com/articles/browser-debugging-tricks'>67 Weird Debugging Tricks Your Browser Doesn't Want You to Know</a>
