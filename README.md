@@ -163,9 +163,6 @@
       <a href='https://my-js.org/docs/cheatsheet/mastering-ts/'>TypeScript в деталях</a>
     </li>
     <li>
-      <a href='https://habr.com/ru/articles/721862/'>React и Typescript: Создание динамического компонента на примере кнопки</a>
-    </li>
-    <li>
       <a href='https://www.youtube.com/@mattpocockuk'>Крутой канал про Typescript </a>
     </li>
     <li>
@@ -186,19 +183,10 @@
       <a href='https://www.freecodecamp.org/news/build-strongly-typed-polymorphic-components-with-react-and-typescript/'>Intermediate TypeScript and React Handbook – How to Build Strongly Typed Polymorphic Components</a>
     </li>
     <li>
-      <a href='https://www.jacobparis.com/content/react-as-child'>Implement Radix's asChild pattern in React</a>
-    </li>
-    <li>
       <a href='https://habr.com/ru/companies/timeweb/articles/685954/'>TypeScript в деталях. Часть 1</a>
     </li>
     <li>
       <a href='https://medium.com/free-code-camp/typescript-curry-ramda-types-f747e99744ab'>Learn Advanced TypeScript Types</a>
-    </li>
-    <li>
-      <a href='https://habr.com/ru/companies/timeweb/articles/685954/'>TypeScript в деталях. Часть 1</a>
-    </li>
-    <li>
-      <a href='https://react-typescript-cheatsheet.netlify.app/'>React TypeScript Cheatsheets</a>
     </li>
     <li>
       <a href='https://frontendmasters.com/blog/testing-types-in-typescript/'>Testing Types in TypeScript</a>
