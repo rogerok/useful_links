@@ -109,8 +109,12 @@
       <a href='https://blog.thoughtspile.tech/tags/react/'>Vladimir Klepov статьи про реакт</a>
     </li>
     <li>
-      <a href='https://my-js.org/'>Руководства, шпаргалки, вопросы и другие материалы по JavaScript, TypeScript, React, Next.js, Node.js, Express, Prisma, GraphQL, Docker, Rust и другим технологиям.
-</a>
+      <a href='https://my-js.org/'>Руководства, шпаргалки, вопросы и другие материалы по JavaScript, TypeScript, React, Next.js, Node.js, Express, Prisma, GraphQL, Docker, Rust и 
+      другим технологиям.
+   </a>
+  </li>
+  <li>
+      <a href='https://2ality.com/index.html'>2ality – JavaScript and more</a>
     </li>
   </ul>
 </section>
@@ -148,6 +152,7 @@
     <li>
       <a href='https://habr.com/ru/companies/piter/articles/598791/'>Книга «System Design. Подготовка к сложному интервью»</a>
     </li>
+    <li><a href='https://www.oreilly.com/library/view/fluent-react/9781098138707/'>Fluent React: Build Fast, Performant, and Intuitive Web Applications</a></li>
   </ul>
 </section>
 
@@ -209,6 +214,12 @@
     <li>
       <a href='https://habr.com/ru/companies/ruvds/articles/493716/'>Вывод типов в TypeScript с использованием конструкции as const и ключевого слова infer</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/articles/871336/'>Type-level программирование в TypeScript: практические кейсы и обзор возможностей</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/articles/707496/'>Мощь декораторов TypeScript на живых примерах. Декорирование методов класса</a>
+    </li>
   </ul>
 </section>
 
@@ -247,6 +258,9 @@
     </li>
     <li>
       <a href='https://habr.com/ru/companies/timeweb/articles/826424/'>JavaScript: структуры данных и алгоритмы. Часть 1</a>
+    </li>
+    <li>
+      <a href='https://github.com/leonardomso/33-js-concepts'>33 Concepts Every JavaScript Developer Should Know</a>
     </li>
   </ul>
 
@@ -435,9 +449,6 @@
   </ul>
 </section>
 
-
-
-
 ### Задачи, подготовка к интервью,
 <section id='challenges'>
   <ul>
@@ -590,6 +601,9 @@
     </li>
     <li>
       <a href="https://habr.com/ru/articles/892480/">Регистрация по взрослому: @AuthenticationalPrinciple, JWT, UserDetails</a>
+    </li>
+    <li>
+      <a href="https://habr.com/ru/articles/893544/">Аутентификация через ЕСИА: ключевые аспекты интеграции</a>
     </li>
   </ul>
 </section>
