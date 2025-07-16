@@ -321,6 +321,10 @@
     <li>
       <a href='https://neetcode.io/'>NeetCode - Roadmap по LeetCode</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/articles/893652'>UI/UX: Учимся использовать настоящий MVC</a>
+    </li>
+    
   </ul>
 </section>
 
