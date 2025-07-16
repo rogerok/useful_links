@@ -335,8 +335,12 @@
       <a href='https://habr.com/ru/articles/893652'>UI/UX: Учимся использовать настоящий MVC</a>
     </li>
     <li>
-      <a href='https://habr.com/ru/articles/917048/'>https://habr.com/ru/articles/917048/</a>
+      <a href='https://habr.com/ru/articles/917048/'>OCP из SOLID</a>
     </li>
+    <li>
+      <a href='https://bespoyasov.ru/blog/clean-architecture-on-frontend/'>Чистая архитектура фронтенд приложений. Беспоясов</a>
+    </li>
+   
   </ul>
 </section>
 
@@ -613,13 +617,16 @@
       <a href="https://www.vinaysahni.com/best-practices-for-a-pragmatic-restful-api">Best Practices for Designing a Pragmatic RESTful API</a>
     </li>
     <li>
-      <a href="https://www.netguru.com/blog/nginx-tutorial-basics-concepts">Nginx Tutorial #1: Basic Concepts</a>
-    </li>
-    <li>
       <a href="https://habr.com/ru/articles/892480/">Регистрация по взрослому: @AuthenticationalPrinciple, JWT, UserDetails</a>
     </li>
     <li>
       <a href="https://habr.com/ru/articles/893544/">Аутентификация через ЕСИА: ключевые аспекты интеграции</a>
+    </li>
+    <li>
+      <a href="https://habr.com/ru/articles/911248/">Еще один вариант структуры go-приложения</a>
+    </li>
+        <li>
+      <a href="https://habr.com/ru/companies/selectel/articles/747738/">Учимся разрабатывать REST API на Go на примере сокращателя ссылок</a>
     </li>
   </ul>
 </section>
@@ -639,7 +646,10 @@
       <a href="https://www.netguru.com/blog/nginx-tutorial-basics-concepts">Nginx Tutorial #1: Basic Concepts</a>
     </li>
     <li>
-      <a href="https://habr.com/ru/companies/selectel/articles/747738/">Учимся разрабатывать REST API на Go на примере сокращателя ссылок</a>
+      <a href="https://habr.com/ru/articles/917226/">Как собрать Docker-образ, который можно запускать в проде (а не только у себя на ноуте)</a>
+    </li>
+    <li>
+      <a href="https://www.netguru.com/blog/nginx-tutorial-basics-concepts">Nginx Tutorial #1: Basic Concepts</a>
     </li>
   </ul>
 </section>
