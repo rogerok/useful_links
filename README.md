@@ -6,7 +6,7 @@
   <li><a href='#blogs'>Блоги</a></li>
   <li><a href='#courses'>Курсы</a></li>
   <li><a href='#books'>Книги</a></li>
-  <li><a href='#typescript'>Typescript</a></li>
+  <li><a href='#typescript'>Typescript/Javascript</a></li>
   <li><a href='#architecture'>Архитектура, паттерны, дизайн</a></li>
   <li><a href='#react'>React</a></li>
   <li><a href='#nextjs'>NextJS</a></li>
@@ -220,6 +220,12 @@
     <li>
       <a href='https://habr.com/ru/articles/707496/'>Мощь декораторов TypeScript на живых примерах. Декорирование методов класса</a>
     </li>
+    <li>
+      <a href='https://github.com/leonardomso/33-js-concepts'>33-js-concepts</a>
+    </li>
+    <li>
+      <a href='https://habr.com/ru/companies/timeweb/articles/906842/'>Продвинутые методы использования TypeScript в реальных проектах</a>
+    </li>
   </ul>
 </section>
 
@@ -262,6 +268,10 @@
     <li>
       <a href='https://github.com/leonardomso/33-js-concepts'>33 Concepts Every JavaScript Developer Should Know</a>
     </li>
+    <li>
+      <a href='https://habr.com/ru/articles/917048/'>OCP из SOLID</a>
+    </li>
+   
   </ul>
 
 </section>
@@ -324,7 +334,9 @@
     <li>
       <a href='https://habr.com/ru/articles/893652'>UI/UX: Учимся использовать настоящий MVC</a>
     </li>
-    
+    <li>
+      <a href='https://habr.com/ru/articles/917048/'>https://habr.com/ru/articles/917048/</a>
+    </li>
   </ul>
 </section>
 
